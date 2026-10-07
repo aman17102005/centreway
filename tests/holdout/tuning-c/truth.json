@@ -1,0 +1,1795 @@
+[
+ {
+  "id": "h00-sbi-chandigarh",
+  "body": "sbi",
+  "exam": "SBI Clerk 2026",
+  "centre": "Adarsh University",
+  "centreCode": "CH4133",
+  "address": "Gandhi Chowk, Chandigarh - 160017",
+  "city": "Chandigarh",
+  "state": "Chandigarh",
+  "pincode": "160017",
+  "homePincode": "570001",
+  "near": {
+   "lat": 30.7333,
+   "lon": 76.7794
+  },
+  "big": true,
+  "lang": "en",
+  "days": [
+   {
+    "date": "2026-07-25",
+    "reportTime": "",
+    "gateTime": "09:00",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "shift": "",
+    "subject": ""
+   }
+  ],
+  "notAllowed": [
+   "headphone",
+   "notes"
+  ],
+  "candidate": {
+   "name": "KAVITA SAMPLESINGH",
+   "father": "MEENA FAKEVERMA",
+   "roll": "6304095278",
+   "app": "106237144979",
+   "dob": "07/11/2000"
+  },
+  "file": "h00-sbi-chandigarh.png",
+  "quality": "screenshot",
+  "damage": [],
+  "layout": "sections",
+  "fontFamily": "tah",
+  "lineWidth": 0.7,
+  "pageSize": "1123x824",
+  "fontSize": 16.5,
+  "timetable": false,
+  "dateStyle": "mdy-long",
+  "timeStyle": "ist",
+  "rangeSep": " till "
+ },
+ {
+  "id": "h01-police-gorakhpur",
+  "body": "police",
+  "exam": "आरक्षी (कांस्टेबल) भर्ती परीक्षा 2026",
+  "centre": "Navjyoti Institute of Technology",
+  "centreCode": "",
+  "address": "Ring Road, गोरखपुर, 273001",
+  "city": "गोरखपुर",
+  "state": "Uttar Pradesh",
+  "pincode": "273001",
+  "homePincode": "846004",
+  "near": {
+   "lat": 26.7606,
+   "lon": 83.3732
+  },
+  "big": false,
+  "lang": "hi",
+  "days": [
+   {
+    "date": "2026-10-08",
+    "reportTime": "12:00",
+    "gateTime": "13:00",
+    "startTime": "13:30",
+    "endTime": "15:30",
+    "shift": "",
+    "subject": ""
+   }
+  ],
+  "notAllowed": [
+   "calculator",
+   "watch"
+  ],
+  "candidate": {
+   "name": "KAVITA DEMOSHARMA",
+   "father": "DEEPAK SAMPLESINGH",
+   "roll": "6162368440",
+   "app": "612885285229",
+   "dob": "07/12/2002"
+  },
+  "file": "h01-police-gorakhpur.jpg",
+  "quality": "photo-mild",
+  "damage": [
+   "desk",
+   "tilt"
+  ],
+  "layout": "twocol",
+  "fontFamily": "ar",
+  "lineWidth": 1,
+  "pageSize": "1123x794",
+  "fontSize": 18.8,
+  "timetable": false,
+  "dateStyle": "slash",
+  "timeStyle": "hindi",
+  "rangeSep": " to "
+ },
+ {
+  "id": "h02-univ-pune",
+  "body": "univ",
+  "exam": "Semester Examination 2026",
+  "centre": "Sir Ramanujan Vidyalaya",
+  "centreCode": "MH5947",
+  "address": "Gandhi Chowk, Near Water Tank, Pune, Maharashtra - 411001",
+  "city": "Pune",
+  "state": "Maharashtra",
+  "pincode": "411001",
+  "homePincode": "452001",
+  "near": {
+   "lat": 18.5204,
+   "lon": 73.8567
+  },
+  "big": true,
+  "lang": "en",
+  "days": [
+   {
+    "date": "2026-04-26",
+    "reportTime": "09:30",
+    "gateTime": "",
+    "startTime": "10:00",
+    "endTime": "13:00",
+    "shift": "",
+    "subject": "Economics"
+   },
+   {
+    "date": "2026-05-01",
+    "reportTime": "09:30",
+    "gateTime": "",
+    "startTime": "10:00",
+    "endTime": "13:00",
+    "shift": "",
+    "subject": "Geography"
+   },
+   {
+    "date": "2026-05-03",
+    "reportTime": "09:30",
+    "gateTime": "",
+    "startTime": "10:00",
+    "endTime": "13:00",
+    "shift": "",
+    "subject": "Biology"
+   }
+  ],
+  "notAllowed": [
+   "mobile",
+   "notes"
+  ],
+  "candidate": {
+   "name": "DEEPAK TESTKUMAR",
+   "father": "RAHUL TRIALMISHRA",
+   "roll": "5924505432",
+   "app": "458672089208",
+   "dob": "13/12/2001"
+  },
+  "file": "h02-univ-pune.jpg",
+  "quality": "photo-hard",
+  "damage": [
+   "tilt",
+   "shadow",
+   "lowres"
+  ],
+  "layout": "timetable",
+  "fontFamily": "tre",
+  "lineWidth": 1,
+  "pageSize": "1123x849",
+  "fontSize": 17.4,
+  "timetable": true,
+  "dateStyle": "dmy-long",
+  "timeStyle": "hrs",
+  "rangeSep": " - "
+ },
+ {
+  "id": "h03-nta-gorakhpur",
+  "body": "nta",
+  "exam": "UGC NET 2026",
+  "centre": "Veer Kunwar Singh Vidyalaya",
+  "centreCode": "UP3697",
+  "address": "Shastri Nagar, Near Main Chowk, Gorakhpur, Uttar Pradesh - 273001",
+  "city": "Gorakhpur",
+  "state": "Uttar Pradesh",
+  "pincode": "273001",
+  "homePincode": "127021",
+  "near": {
+   "lat": 26.7606,
+   "lon": 83.3732
+  },
+  "big": false,
+  "lang": "en",
+  "days": [
+   {
+    "date": "2026-08-05",
+    "reportTime": "12:00",
+    "gateTime": "13:30",
+    "startTime": "15:00",
+    "endTime": "18:00",
+    "shift": "2",
+    "subject": ""
+   }
+  ],
+  "notAllowed": [
+   "calculator",
+   "mobile"
+  ],
+  "candidate": {
+   "name": "MEENA DEMOSHARMA",
+   "father": "VIKAS TRIALMISHRA",
+   "roll": "3774268397",
+   "app": "947807682890",
+   "dob": "11/11/2000"
+  },
+  "file": "h03-nta-gorakhpur.pdf",
+  "quality": "pdf-text",
+  "damage": [],
+  "layout": "stacked",
+  "fontFamily": "geo",
+  "lineWidth": 2,
+  "pageSize": "1123x819",
+  "fontSize": 17.3,
+  "timetable": false,
+  "dateStyle": "dash",
+  "timeStyle": "paren",
+  "rangeSep": " - "
+ },
+ {
+  "id": "h04-nta-muzaffarpur",
+  "body": "nta",
+  "exam": "JEE Main 2026 Session 2",
+  "centre": "Online Examination Centre 4",
+  "centreCode": "BR2454",
+  "address": "Gandhi Chowk, Near Indian Oil Petrol Pump, Muzaffarpur, Bihar, 842001",
+  "city": "Muzaffarpur",
+  "state": "Bihar",
+  "pincode": "842001",
+  "homePincode": "380001",
+  "near": {
+   "lat": 26.1209,
+   "lon": 85.3647
+  },
+  "big": false,
+  "lang": "en",
+  "days": [
+   {
+    "date": "2026-03-08",
+    "reportTime": "13:00",
+    "gateTime": "14:00",
+    "startTime": "14:00",
+    "endTime": "17:00",
+    "shift": "3",
+    "subject": ""
+   }
+  ],
+  "notAllowed": [
+   "mobile",
+   "calculator",
+   "watch"
+  ],
+  "candidate": {
+   "name": "AMIT SPECIMENJOSHI",
+   "father": "ASHOK SAMPLESINGH",
+   "roll": "6541970167",
+   "app": "860649509269",
+   "dob": "28/08/2005"
+  },
+  "file": "h04-nta-muzaffarpur.png",
+  "quality": "clean-image",
+  "damage": [],
+  "layout": "sections",
+  "fontFamily": "tah",
+  "lineWidth": 2,
+  "pageSize": "1123x952",
+  "fontSize": 18.7,
+  "timetable": false,
+  "dateStyle": "dmy-mon",
+  "timeStyle": "hrs4",
+  "rangeSep": " - "
+ },
+ {
+  "id": "h05-nta-bhopal",
+  "body": "nta",
+  "exam": "NEET UG 2026",
+  "centre": "iON Digital Zone iDZ 9",
+  "centreCode": "MP7302",
+  "address": "Phase 3, Sadar Bazar, Bhopal, 462001",
+  "city": "Bhopal",
+  "state": "Madhya Pradesh",
+  "pincode": "462001",
+  "homePincode": "332001",
+  "near": {
+   "lat": 23.2599,
+   "lon": 77.4126
+  },
+  "big": true,
+  "lang": "en",
+  "days": [
+   {
+    "date": "2026-03-27",
+    "reportTime": "07:00",
+    "gateTime": "08:30",
+    "startTime": "09:00",
+    "endTime": "12:00",
+    "shift": "1",
+    "subject": ""
+   }
+  ],
+  "notAllowed": [
+   "calculator",
+   "notes"
+  ],
+  "candidate": {
+   "name": "SIMRAN TESTKUMAR",
+   "father": "MEENA TRIALMISHRA",
+   "roll": "5548100668",
+   "app": "889922414513",
+   "dob": "09/01/1998"
+  },
+  "file": "h05-nta-bhopal.png",
+  "quality": "screenshot",
+  "damage": [],
+  "layout": "headrow",
+  "fontFamily": "ver",
+  "lineWidth": 0.7,
+  "pageSize": "816x1056",
+  "fontSize": 11.2,
+  "timetable": false,
+  "dateStyle": "dmy-long",
+  "timeStyle": "colon12",
+  "rangeSep": " till "
+ },
+ {
+  "id": "h06-nta-hisar",
+  "body": "nta",
+  "exam": "NEET UG 2026",
+  "centre": "Vivekanand Polytechnic",
+  "centreCode": "HR9053",
+  "address": "Mall Road, Near Railway Crossing, Hisar, Haryana, PIN: 125001",
+  "city": "Hisar",
+  "state": "Haryana",
+  "pincode": "125001",
+  "homePincode": "413512",
+  "near": {
+   "lat": 29.1492,
+   "lon": 75.7217
+  },
+  "big": false,
+  "lang": "en",
+  "days": [
+   {
+    "date": "2026-04-16",
+    "reportTime": "13:00",
+    "gateTime": "",
+    "startTime": "14:00",
+    "endTime": "17:00",
+    "shift": "",
+    "subject": "Economics"
+   },
+   {
+    "date": "2026-04-18",
+    "reportTime": "13:00",
+    "gateTime": "",
+    "startTime": "14:00",
+    "endTime": "17:00",
+    "shift": "",
+    "subject": "Chemistry"
+   },
+   {
+    "date": "2026-04-19",
+    "reportTime": "13:00",
+    "gateTime": "",
+    "startTime": "14:00",
+    "endTime": "17:00",
+    "shift": "",
+    "subject": "Hindi"
+   },
+   {
+    "date": "2026-04-21",
+    "reportTime": "13:00",
+    "gateTime": "",
+    "startTime": "14:00",
+    "endTime": "17:00",
+    "shift": "",
+    "subject": "Physics"
+   },
+   {
+    "date": "2026-04-24",
+    "reportTime": "13:00",
+    "gateTime": "",
+    "startTime": "14:00",
+    "endTime": "17:00",
+    "shift": "",
+    "subject": "Computer Science"
+   }
+  ],
+  "notAllowed": [
+   "calculator",
+   "notes"
+  ],
+  "candidate": {
+   "name": "KARAN MOCKGUPTA",
+   "father": "SUNITA SPECIMENJOSHI",
+   "roll": "3351290569",
+   "app": "439306067098",
+   "dob": "01/08/2006"
+  },
+  "file": "h06-nta-hisar.pdf",
+  "quality": "pdf-text",
+  "damage": [],
+  "layout": "timetable",
+  "fontFamily": "tnr",
+  "lineWidth": 0.7,
+  "pageSize": "816x1056",
+  "fontSize": 12.3,
+  "timetable": true,
+  "dateStyle": "dmy-long",
+  "timeStyle": "hrs",
+  "rangeSep": " to "
+ },
+ {
+  "id": "h07-psc-karnal",
+  "body": "psc",
+  "exam": "HPSC State Civil Services 2026",
+  "centre": "Vidya Jyoti Institute of Technology",
+  "centreCode": "",
+  "address": "Block 14, जी टी रोड, करनाल, हरियाणा, पिन: 132001",
+  "city": "करनाल",
+  "state": "Haryana",
+  "pincode": "132001",
+  "homePincode": "127021",
+  "near": {
+   "lat": 29.6857,
+   "lon": 76.9905
+  },
+  "big": false,
+  "lang": "hi",
+  "days": [
+   {
+    "date": "2026-09-12",
+    "reportTime": "13:00",
+    "gateTime": "14:00",
+    "startTime": "14:30",
+    "endTime": "16:30",
+    "shift": "2",
+    "subject": ""
+   }
+  ],
+  "notAllowed": [
+   "notes",
+   "mobile"
+  ],
+  "candidate": {
+   "name": "NEHA MOCKGUPTA",
+   "father": "POOJA FAKEVERMA",
+   "roll": "8437603082",
+   "app": "876168545059",
+   "dob": "17/05/1999"
+  },
+  "file": "h07-psc-karnal.png",
+  "quality": "clean-image",
+  "damage": [],
+  "layout": "stacked",
+  "fontFamily": "ns",
+  "lineWidth": 2,
+  "pageSize": "816x1056",
+  "fontSize": 13.7,
+  "timetable": false,
+  "dateStyle": "ordinal",
+  "timeStyle": "hrs4",
+  "rangeSep": " to "
+ },
+ {
+  "id": "h08-ibps-cuttack",
+  "body": "ibps",
+  "exam": "IBPS PO 2026",
+  "centre": "Saraswati University",
+  "centreCode": "",
+  "address": "Awas Vikas Colony, Near Shiv Mandir, Cuttack, Odisha, PIN: 753001",
+  "city": "Cuttack",
+  "state": "Odisha",
+  "pincode": "753001",
+  "homePincode": "570001",
+  "near": {
+   "lat": 20.4625,
+   "lon": 85.883
+  },
+  "big": false,
+  "lang": "en",
+  "days": [
+   {
+    "date": "2026-11-20",
+    "reportTime": "13:00",
+    "gateTime": "13:45",
+    "startTime": "14:00",
+    "endTime": "15:00",
+    "shift": "3",
+    "subject": ""
+   }
+  ],
+  "notAllowed": [
+   "calculator",
+   "mobile",
+   "watch"
+  ],
+  "candidate": {
+   "name": "KAVITA MOCKGUPTA",
+   "father": "DEEPAK MOCKGUPTA",
+   "roll": "1314097200",
+   "app": "226859720346",
+   "dob": "18/11/1996"
+  },
+  "file": "h08-ibps-cuttack.jpg",
+  "quality": "photo-hard",
+  "damage": [
+   "desk",
+   "glare"
+  ],
+  "layout": "twocol",
+  "fontFamily": "cou",
+  "lineWidth": 2,
+  "pageSize": "816x1056",
+  "fontSize": 13,
+  "timetable": false,
+  "dateStyle": "slash",
+  "timeStyle": "hrs",
+  "rangeSep": " - "
+ },
+ {
+  "id": "h09-ibps-karnal",
+  "body": "ibps",
+  "exam": "IBPS PO 2026",
+  "centre": "Gyan Bharti Inter College",
+  "centreCode": "HR9134",
+  "address": "University Road, Near Railway Crossing, Karnal, Haryana - 132001",
+  "city": "Karnal",
+  "state": "Haryana",
+  "pincode": "132001",
+  "homePincode": "243001",
+  "near": {
+   "lat": 29.6857,
+   "lon": 76.9905
+  },
+  "big": false,
+  "lang": "en",
+  "days": [
+   {
+    "date": "2026-01-19",
+    "reportTime": "13:00",
+    "gateTime": "13:45",
+    "startTime": "14:00",
+    "endTime": "15:00",
+    "shift": "3",
+    "subject": ""
+   }
+  ],
+  "notAllowed": [
+   "headphone",
+   "watch"
+  ],
+  "candidate": {
+   "name": "SANDEEP TESTKUMAR",
+   "father": "RAHUL FAKEVERMA",
+   "roll": "6938841501",
+   "app": "222216878665",
+   "dob": "20/09/2004"
+  },
+  "file": "h09-ibps-karnal.jpg",
+  "quality": "photo-hard",
+  "damage": [
+   "tilt",
+   "blur"
+  ],
+  "layout": "twocol",
+  "fontFamily": "tre",
+  "lineWidth": 1,
+  "pageSize": "700x1000",
+  "fontSize": 11.2,
+  "timetable": false,
+  "dateStyle": "dash",
+  "timeStyle": "hrs",
+  "rangeSep": " to "
+ },
+ {
+  "id": "h10-iit-sagar",
+  "body": "iit",
+  "exam": "GATE 2026",
+  "centre": "Navjyoti Inter College",
+  "centreCode": "MP2495",
+  "address": "Block 9, Ram Nagar, Behind Town Hall, Sagar, Madhya Pradesh, 470002",
+  "city": "Sagar",
+  "state": "Madhya Pradesh",
+  "pincode": "470002",
+  "homePincode": "422001",
+  "near": {
+   "lat": 23.8388,
+   "lon": 78.7378
+  },
+  "big": false,
+  "lang": "en",
+  "days": [
+   {
+    "date": "2026-07-19",
+    "reportTime": "13:00",
+    "gateTime": "",
+    "startTime": "14:00",
+    "endTime": "17:00",
+    "shift": "",
+    "subject": ""
+   }
+  ],
+  "notAllowed": [
+   "electronic",
+   "calculator"
+  ],
+  "candidate": {
+   "name": "VIKAS TRIALMISHRA",
+   "father": "SANDEEP TESTKUMAR",
+   "roll": "6126360549",
+   "app": "982166940176",
+   "dob": "26/01/2006"
+  },
+  "file": "h10-iit-sagar.pdf",
+  "quality": "pdf-text",
+  "damage": [],
+  "layout": "grid4",
+  "fontFamily": "cou",
+  "lineWidth": 1,
+  "pageSize": "700x1000",
+  "fontSize": 11.6,
+  "timetable": false,
+  "dateStyle": "ordinal",
+  "timeStyle": "dot12",
+  "rangeSep": " - "
+ },
+ {
+  "id": "h11-ibps-sikar",
+  "body": "ibps",
+  "exam": "IBPS RRB 2026",
+  "centre": "Lal Bahadur Vidyalaya",
+  "centreCode": "",
+  "address": "Phase 31, Railway Road, Near Main Chowk, Sikar, 332001",
+  "city": "Sikar",
+  "state": "Rajasthan",
+  "pincode": "332001",
+  "homePincode": "823001",
+  "near": {
+   "lat": 27.6119,
+   "lon": 75.1397
+  },
+  "big": false,
+  "lang": "en",
+  "days": [
+   {
+    "date": "2026-04-27",
+    "reportTime": "10:30",
+    "gateTime": "11:15",
+    "startTime": "11:30",
+    "endTime": "12:30",
+    "shift": "2",
+    "subject": ""
+   }
+  ],
+  "notAllowed": [
+   "calculator",
+   "electronic",
+   "watch"
+  ],
+  "candidate": {
+   "name": "POOJA SPECIMENJOSHI",
+   "father": "RITU MOCKGUPTA",
+   "roll": "9997535422",
+   "app": "229002605022",
+   "dob": "14/10/2004"
+  },
+  "file": "h11-ibps-sikar.jpg",
+  "quality": "photo-mild",
+  "damage": [
+   "desk",
+   "tilt"
+  ],
+  "layout": "twocol",
+  "fontFamily": "ns",
+  "lineWidth": 1,
+  "pageSize": "700x1000",
+  "fontSize": 10.4,
+  "timetable": false,
+  "dateStyle": "ordinal",
+  "timeStyle": "dot12c",
+  "rangeSep": " - "
+ },
+ {
+  "id": "h12-rrb-hisar",
+  "body": "rrb",
+  "exam": "RRB NTPC 2026",
+  "centre": "Maharana Pratap Institute of Technology",
+  "centreCode": "",
+  "address": "Sector 17, Gandhi Marg, Hisar, Haryana 125001",
+  "city": "Hisar",
+  "state": "Haryana",
+  "pincode": "125001",
+  "homePincode": "243001",
+  "near": {
+   "lat": 29.1492,
+   "lon": 75.7217
+  },
+  "big": false,
+  "lang": "en",
+  "days": [
+   {
+    "date": "2026-12-08",
+    "reportTime": "07:30",
+    "gateTime": "",
+    "startTime": "09:00",
+    "endTime": "10:30",
+    "shift": "",
+    "subject": "Geography"
+   },
+   {
+    "date": "2026-12-11",
+    "reportTime": "07:30",
+    "gateTime": "",
+    "startTime": "09:00",
+    "endTime": "10:30",
+    "shift": "",
+    "subject": "Computer Science"
+   },
+   {
+    "date": "2026-12-13",
+    "reportTime": "07:30",
+    "gateTime": "",
+    "startTime": "09:00",
+    "endTime": "10:30",
+    "shift": "",
+    "subject": "Mathematics"
+   },
+   {
+    "date": "2026-12-14",
+    "reportTime": "07:30",
+    "gateTime": "",
+    "startTime": "09:00",
+    "endTime": "10:30",
+    "shift": "",
+    "subject": "Political Science"
+   },
+   {
+    "date": "2026-12-16",
+    "reportTime": "07:30",
+    "gateTime": "",
+    "startTime": "09:00",
+    "endTime": "10:30",
+    "shift": "",
+    "subject": "Mathematics"
+   },
+   {
+    "date": "2026-12-17",
+    "reportTime": "07:30",
+    "gateTime": "",
+    "startTime": "09:00",
+    "endTime": "10:30",
+    "shift": "",
+    "subject": "Biology"
+   }
+  ],
+  "notAllowed": [
+   "electronic",
+   "calculator",
+   "bag"
+  ],
+  "candidate": {
+   "name": "ASHOK TRIALMISHRA",
+   "father": "SIMRAN TRIALMISHRA",
+   "roll": "9646812977",
+   "app": "386329794331",
+   "dob": "26/03/2007"
+  },
+  "file": "h12-rrb-hisar.png",
+  "quality": "clean-image",
+  "damage": [],
+  "layout": "timetable",
+  "fontFamily": "geo",
+  "lineWidth": 0.7,
+  "pageSize": "700x1000",
+  "fontSize": 11.8,
+  "timetable": true,
+  "dateStyle": "dot",
+  "timeStyle": "paren",
+  "rangeSep": " to "
+ },
+ {
+  "id": "h13-univ-nagpur",
+  "body": "univ",
+  "exam": "Semester Examination 2026",
+  "centre": "Sardar Patel Institute of Technology",
+  "centreCode": "",
+  "address": "Nehru Colony, Near Indian Oil Petrol Pump, Nagpur, Maharashtra, PIN: 440001",
+  "city": "Nagpur",
+  "state": "Maharashtra",
+  "pincode": "440001",
+  "homePincode": "125001",
+  "near": {
+   "lat": 21.1458,
+   "lon": 79.0882
+  },
+  "big": true,
+  "lang": "en",
+  "days": [
+   {
+    "date": "2026-02-16",
+    "reportTime": "09:30",
+    "gateTime": "",
+    "startTime": "10:00",
+    "endTime": "13:00",
+    "shift": "",
+    "subject": "English"
+   },
+   {
+    "date": "2026-02-19",
+    "reportTime": "09:30",
+    "gateTime": "",
+    "startTime": "10:00",
+    "endTime": "13:00",
+    "shift": "",
+    "subject": "Accountancy"
+   },
+   {
+    "date": "2026-02-22",
+    "reportTime": "09:30",
+    "gateTime": "",
+    "startTime": "10:00",
+    "endTime": "13:00",
+    "shift": "",
+    "subject": "Chemistry"
+   }
+  ],
+  "notAllowed": [
+   "headphone",
+   "electronic",
+   "bag"
+  ],
+  "candidate": {
+   "name": "ANITA SAMPLESINGH",
+   "father": "SIMRAN MOCKGUPTA",
+   "roll": "8092449582",
+   "app": "926210053498",
+   "dob": "10/01/1998"
+  },
+  "file": "h13-univ-nagpur.jpg",
+  "quality": "photo-mild",
+  "damage": [
+   "desk",
+   "tilt"
+  ],
+  "layout": "timetable",
+  "fontFamily": "cou",
+  "lineWidth": 2,
+  "pageSize": "816x1056",
+  "fontSize": 12.1,
+  "timetable": true,
+  "dateStyle": "dash",
+  "timeStyle": "dot12",
+  "rangeSep": " - "
+ },
+ {
+  "id": "h14-univ-coimbatore",
+  "body": "univ",
+  "exam": "Semester Examination 2026",
+  "centre": "Shanti Niketan Mahavidyalaya",
+  "centreCode": "",
+  "address": "Vikas Nagar, Opposite Government Hospital, Coimbatore, Tamil Nadu, PIN: 641001",
+  "city": "Coimbatore",
+  "state": "Tamil Nadu",
+  "pincode": "641001",
+  "homePincode": "226001",
+  "near": {
+   "lat": 11.0168,
+   "lon": 76.9558
+  },
+  "big": false,
+  "lang": "en",
+  "days": [
+   {
+    "date": "2026-09-28",
+    "reportTime": "",
+    "gateTime": "",
+    "startTime": "14:00",
+    "endTime": "17:00",
+    "shift": "",
+    "subject": "Physics"
+   },
+   {
+    "date": "2026-10-02",
+    "reportTime": "",
+    "gateTime": "",
+    "startTime": "14:00",
+    "endTime": "17:00",
+    "shift": "",
+    "subject": "Accountancy"
+   },
+   {
+    "date": "2026-10-04",
+    "reportTime": "",
+    "gateTime": "",
+    "startTime": "14:00",
+    "endTime": "17:00",
+    "shift": "",
+    "subject": "History"
+   },
+   {
+    "date": "2026-10-07",
+    "reportTime": "",
+    "gateTime": "",
+    "startTime": "14:00",
+    "endTime": "17:00",
+    "shift": "",
+    "subject": "Chemistry"
+   },
+   {
+    "date": "2026-10-09",
+    "reportTime": "",
+    "gateTime": "",
+    "startTime": "14:00",
+    "endTime": "17:00",
+    "shift": "",
+    "subject": "Biology"
+   },
+   {
+    "date": "2026-10-11",
+    "reportTime": "",
+    "gateTime": "",
+    "startTime": "14:00",
+    "endTime": "17:00",
+    "shift": "",
+    "subject": "History"
+   }
+  ],
+  "notAllowed": [
+   "watch",
+   "calculator"
+  ],
+  "candidate": {
+   "name": "RITU FAKEVERMA",
+   "father": "RITU SPECIMENJOSHI",
+   "roll": "1656818420",
+   "app": "994122151363",
+   "dob": "08/03/1999"
+  },
+  "file": "h14-univ-coimbatore.png",
+  "quality": "clean-image",
+  "damage": [],
+  "layout": "timetable",
+  "fontFamily": "tah",
+  "lineWidth": 1,
+  "pageSize": "794x1123",
+  "fontSize": 10.5,
+  "timetable": true,
+  "dateStyle": "dmy-long",
+  "timeStyle": "h24",
+  "rangeSep": " till "
+ },
+ {
+  "id": "h15-ibps-bhiwani",
+  "body": "ibps",
+  "exam": "IBPS Clerk 2026",
+  "centre": "Mahatma Gandhi Polytechnic",
+  "centreCode": "",
+  "address": "Tilak Nagar, Near Water Tank, Bhiwani, 127021",
+  "city": "Bhiwani",
+  "state": "Haryana",
+  "pincode": "127021",
+  "homePincode": "302001",
+  "near": {
+   "lat": 28.7975,
+   "lon": 76.1322
+  },
+  "big": false,
+  "lang": "en",
+  "days": [
+   {
+    "date": "2026-01-17",
+    "reportTime": "13:00",
+    "gateTime": "",
+    "startTime": "14:00",
+    "endTime": "15:00",
+    "shift": "",
+    "subject": "Economics"
+   },
+   {
+    "date": "2026-01-20",
+    "reportTime": "13:00",
+    "gateTime": "",
+    "startTime": "14:00",
+    "endTime": "15:00",
+    "shift": "",
+    "subject": "Geography"
+   },
+   {
+    "date": "2026-01-22",
+    "reportTime": "13:00",
+    "gateTime": "",
+    "startTime": "14:00",
+    "endTime": "15:00",
+    "shift": "",
+    "subject": "History"
+   }
+  ],
+  "notAllowed": [
+   "watch",
+   "bag"
+  ],
+  "candidate": {
+   "name": "ASHOK MOCKGUPTA",
+   "father": "DEEPAK TESTKUMAR",
+   "roll": "5033628782",
+   "app": "965855735171",
+   "dob": "15/05/2000"
+  },
+  "file": "h15-ibps-bhiwani.jpg",
+  "quality": "photo-hard",
+  "damage": [
+   "tilt",
+   "blur"
+  ],
+  "layout": "timetable",
+  "fontFamily": "tnr",
+  "lineWidth": 2,
+  "pageSize": "794x1123",
+  "fontSize": 12.6,
+  "timetable": true,
+  "dateStyle": "dmy-mon",
+  "timeStyle": "dot12",
+  "rangeSep": " – "
+ },
+ {
+  "id": "h16-tet-chandigarh",
+  "body": "tet",
+  "exam": "REET 2026",
+  "centre": "Bharat Public School",
+  "centreCode": "CH1970",
+  "address": "Lal Bagh, Near Railway Crossing, Chandigarh, Chandigarh, 160017",
+  "city": "Chandigarh",
+  "state": "Chandigarh",
+  "pincode": "160017",
+  "homePincode": "846004",
+  "near": {
+   "lat": 30.7333,
+   "lon": 76.7794
+  },
+  "big": true,
+  "lang": "en",
+  "days": [
+   {
+    "date": "2026-04-05",
+    "reportTime": "08:30",
+    "gateTime": "09:00",
+    "startTime": "09:30",
+    "endTime": "12:00",
+    "shift": "",
+    "subject": ""
+   }
+  ],
+  "notAllowed": [
+   "electronic",
+   "calculator",
+   "headphone"
+  ],
+  "candidate": {
+   "name": "SIMRAN FAKEVERMA",
+   "father": "RAHUL TRIALMISHRA",
+   "roll": "8944714496",
+   "app": "502962930336",
+   "dob": "02/09/2002"
+  },
+  "file": "h16-tet-chandigarh.png",
+  "quality": "clean-image",
+  "damage": [],
+  "layout": "stacked",
+  "fontFamily": "tah",
+  "lineWidth": 2,
+  "pageSize": "794x1123",
+  "fontSize": 10.7,
+  "timetable": false,
+  "dateStyle": "mdy-long",
+  "timeStyle": "paren",
+  "rangeSep": " – "
+ },
+ {
+  "id": "h17-rrb-nagpur",
+  "body": "rrb",
+  "exam": "RRB NTPC 2026",
+  "centre": "Rabindra Polytechnic",
+  "centreCode": "",
+  "address": "Sector 12, Vikas Nagar, Near Railway Crossing, Nagpur, Maharashtra - 440001",
+  "city": "Nagpur",
+  "state": "Maharashtra",
+  "pincode": "440001",
+  "homePincode": "206001",
+  "near": {
+   "lat": 21.1458,
+   "lon": 79.0882
+  },
+  "big": true,
+  "lang": "en",
+  "days": [
+   {
+    "date": "2026-09-28",
+    "reportTime": "11:00",
+    "gateTime": "12:00",
+    "startTime": "12:30",
+    "endTime": "14:00",
+    "shift": "",
+    "subject": ""
+   }
+  ],
+  "notAllowed": [
+   "electronic",
+   "notes",
+   "watch"
+  ],
+  "candidate": {
+   "name": "ASHOK TRIALMISHRA",
+   "father": "SANDEEP TESTKUMAR",
+   "roll": "8387659650",
+   "app": "888064446072",
+   "dob": "07/02/2005"
+  },
+  "file": "h17-rrb-nagpur.png",
+  "quality": "clean-image",
+  "damage": [],
+  "layout": "twocol",
+  "fontFamily": "ar",
+  "lineWidth": 1.4,
+  "pageSize": "816x1056",
+  "fontSize": 11.2,
+  "timetable": false,
+  "dateStyle": "slash",
+  "timeStyle": "dot12c",
+  "rangeSep": " – "
+ },
+ {
+  "id": "h18-upsc-kolhapur",
+  "body": "upsc",
+  "exam": "UPSC NDA 2026",
+  "centre": "Rani Lakshmi Bai Institute of Technology",
+  "centreCode": "",
+  "address": "Bypass Road, Near Indian Oil Petrol Pump, Kolhapur, Maharashtra 416001",
+  "city": "Kolhapur",
+  "state": "Maharashtra",
+  "pincode": "416001",
+  "homePincode": "226001",
+  "near": {
+   "lat": 16.705,
+   "lon": 74.2433
+  },
+  "big": false,
+  "lang": "en",
+  "days": [
+   {
+    "date": "2026-09-09",
+    "reportTime": "08:30",
+    "gateTime": "",
+    "startTime": "09:30",
+    "endTime": "11:30",
+    "shift": "1",
+    "subject": ""
+   }
+  ],
+  "notAllowed": [
+   "mobile",
+   "headphone",
+   "electronic"
+  ],
+  "candidate": {
+   "name": "SUNITA DUMMYYADAV",
+   "father": "MANISH SPECIMENJOSHI",
+   "roll": "3340217370",
+   "app": "528449148170",
+   "dob": "18/09/2003"
+  },
+  "file": "h18-upsc-kolhapur.jpg",
+  "quality": "photo-mild",
+  "damage": [
+   "desk"
+  ],
+  "layout": "grid2",
+  "fontFamily": "geo",
+  "lineWidth": 2,
+  "pageSize": "816x1056",
+  "fontSize": 13.8,
+  "timetable": false,
+  "dateStyle": "mdy-long",
+  "timeStyle": "noon",
+  "rangeSep": " – "
+ },
+ {
+  "id": "h19-ibps-nashik",
+  "body": "ibps",
+  "exam": "IBPS PO 2026",
+  "centre": "Rani Lakshmi Bai University",
+  "centreCode": "",
+  "address": "Sector 3, Awas Vikas Colony, Nashik, Maharashtra, 422001",
+  "city": "Nashik",
+  "state": "Maharashtra",
+  "pincode": "422001",
+  "homePincode": "492001",
+  "near": {
+   "lat": 19.9975,
+   "lon": 73.7898
+  },
+  "big": false,
+  "lang": "en",
+  "days": [
+   {
+    "date": "2026-05-06",
+    "reportTime": "10:30",
+    "gateTime": "11:15",
+    "startTime": "11:30",
+    "endTime": "12:30",
+    "shift": "2",
+    "subject": ""
+   }
+  ],
+  "notAllowed": [
+   "mobile",
+   "notes"
+  ],
+  "candidate": {
+   "name": "POOJA SAMPLESINGH",
+   "father": "SUNITA TRIALMISHRA",
+   "roll": "7340034659",
+   "app": "979986658525",
+   "dob": "17/10/1997"
+  },
+  "file": "h19-ibps-nashik.jpg",
+  "quality": "photo-hard",
+  "damage": [
+   "tilt",
+   "blur"
+  ],
+  "layout": "grid2",
+  "fontFamily": "cou",
+  "lineWidth": 1,
+  "pageSize": "794x1123",
+  "fontSize": 13.3,
+  "timetable": false,
+  "dateStyle": "dmy-mon",
+  "timeStyle": "hrs",
+  "rangeSep": " - "
+ },
+ {
+  "id": "h20-upsc-bhiwani",
+  "body": "upsc",
+  "exam": "UPSC Civil Services 2026",
+  "centre": "Kalpana Polytechnic",
+  "centreCode": "",
+  "address": "Gandhi Marg, Near Railway Crossing, Bhiwani, PIN: 127021",
+  "city": "Bhiwani",
+  "state": "Haryana",
+  "pincode": "127021",
+  "homePincode": "520001",
+  "near": {
+   "lat": 28.7975,
+   "lon": 76.1322
+  },
+  "big": false,
+  "lang": "en",
+  "days": [
+   {
+    "date": "2026-09-06",
+    "reportTime": "08:30",
+    "gateTime": "",
+    "startTime": "09:30",
+    "endTime": "11:30",
+    "shift": "",
+    "subject": ""
+   }
+  ],
+  "notAllowed": [
+   "notes",
+   "headphone"
+  ],
+  "candidate": {
+   "name": "MEENA DEMOSHARMA",
+   "father": "VIKAS DUMMYYADAV",
+   "roll": "2975997108",
+   "app": "237793111521",
+   "dob": "26/01/2006"
+  },
+  "file": "h20-upsc-bhiwani.png",
+  "quality": "screenshot",
+  "damage": [],
+  "layout": "grid4",
+  "fontFamily": "ver",
+  "lineWidth": 1.4,
+  "pageSize": "816x1056",
+  "fontSize": 11.3,
+  "timetable": false,
+  "dateStyle": "ordinal",
+  "timeStyle": "hrs4",
+  "rangeSep": " - "
+ },
+ {
+  "id": "h21-ssc-jaipur",
+  "body": "ssc",
+  "exam": "SSC CHSL 2026",
+  "centre": "Vidya Jyoti Senior Secondary School",
+  "centreCode": "",
+  "address": "Sector 19, Civil Lines, Near Main Chowk, Jaipur 302001",
+  "city": "Jaipur",
+  "state": "Rajasthan",
+  "pincode": "302001",
+  "homePincode": "627001",
+  "near": {
+   "lat": 26.9124,
+   "lon": 75.7873
+  },
+  "big": true,
+  "lang": "en",
+  "days": [
+   {
+    "date": "2026-06-21",
+    "reportTime": "08:30",
+    "gateTime": "09:15",
+    "startTime": "09:30",
+    "endTime": "10:30",
+    "shift": "1",
+    "subject": ""
+   }
+  ],
+  "notAllowed": [
+   "mobile",
+   "calculator"
+  ],
+  "candidate": {
+   "name": "SIMRAN DUMMYYADAV",
+   "father": "SUNITA MOCKGUPTA",
+   "roll": "5334572771",
+   "app": "671381036953",
+   "dob": "18/07/2003"
+  },
+  "file": "h21-ssc-jaipur.png",
+  "quality": "screenshot",
+  "damage": [],
+  "layout": "noline2",
+  "fontFamily": "tre",
+  "lineWidth": 0.7,
+  "pageSize": "816x1056",
+  "fontSize": 10.9,
+  "timetable": false,
+  "dateStyle": "dmy-long",
+  "timeStyle": "dot12",
+  "rangeSep": " till "
+ },
+ {
+  "id": "h22-iit-darbhanga",
+  "body": "iit",
+  "exam": "CLAT 2026",
+  "centre": "Bharat College of Education",
+  "centreCode": "BR4670",
+  "address": "Kachehri Road, Near Water Tank, Darbhanga 846004",
+  "city": "Darbhanga",
+  "state": "Bihar",
+  "pincode": "846004",
+  "homePincode": "248001",
+  "near": {
+   "lat": 26.1542,
+   "lon": 85.8918
+  },
+  "big": false,
+  "lang": "en",
+  "days": [
+   {
+    "date": "2026-02-17",
+    "reportTime": "07:30",
+    "gateTime": "",
+    "startTime": "08:30",
+    "endTime": "10:30",
+    "shift": "",
+    "subject": ""
+   }
+  ],
+  "notAllowed": [
+   "headphone",
+   "watch"
+  ],
+  "candidate": {
+   "name": "AMIT FAKEVERMA",
+   "father": "SUNITA MOCKGUPTA",
+   "roll": "4012745448",
+   "app": "363082730195",
+   "dob": "26/07/2004"
+  },
+  "file": "h22-iit-darbhanga.jpg",
+  "quality": "photo-hard",
+  "damage": [
+   "desk",
+   "shadow"
+  ],
+  "layout": "grid2",
+  "fontFamily": "tnr",
+  "lineWidth": 0.7,
+  "pageSize": "794x1123",
+  "fontSize": 11.3,
+  "timetable": false,
+  "dateStyle": "mdy-long",
+  "timeStyle": "dot12",
+  "rangeSep": " till "
+ },
+ {
+  "id": "h23-upsc-lucknow",
+  "body": "upsc",
+  "exam": "UPSC NDA 2026",
+  "centre": "Chhatrapati Shivaji Engineering College",
+  "centreCode": "",
+  "address": "Industrial Area, Near Water Tank, Lucknow, Uttar Pradesh - 226001",
+  "city": "Lucknow",
+  "state": "Uttar Pradesh",
+  "pincode": "226001",
+  "homePincode": "305001",
+  "near": {
+   "lat": 26.8467,
+   "lon": 80.9462
+  },
+  "big": true,
+  "lang": "en",
+  "days": [
+   {
+    "date": "2026-07-01",
+    "reportTime": "08:30",
+    "gateTime": "",
+    "startTime": "09:30",
+    "endTime": "11:30",
+    "shift": "",
+    "subject": ""
+   }
+  ],
+  "notAllowed": [
+   "calculator",
+   "bag",
+   "notes"
+  ],
+  "candidate": {
+   "name": "KARAN DEMOSHARMA",
+   "father": "POOJA MOCKGUPTA",
+   "roll": "4279601916",
+   "app": "473544342956",
+   "dob": "02/05/2007"
+  },
+  "file": "h23-upsc-lucknow.jpg",
+  "quality": "photo-mild",
+  "damage": [
+   "desk",
+   "tilt"
+  ],
+  "layout": "plain",
+  "fontFamily": "ar",
+  "lineWidth": 1.4,
+  "pageSize": "816x1056",
+  "fontSize": 12.2,
+  "timetable": false,
+  "dateStyle": "ordinal",
+  "timeStyle": "noon",
+  "rangeSep": " - "
+ },
+ {
+  "id": "h24-upsc-cuttack",
+  "body": "upsc",
+  "exam": "UPSC Civil Services 2026",
+  "centre": "Greenfield Inter College",
+  "centreCode": "",
+  "address": "Bypass Road, Opposite Government Hospital, Cuttack, Odisha - 753001",
+  "city": "Cuttack",
+  "state": "Odisha",
+  "pincode": "753001",
+  "homePincode": "842001",
+  "near": {
+   "lat": 20.4625,
+   "lon": 85.883
+  },
+  "big": false,
+  "lang": "en",
+  "days": [
+   {
+    "date": "2026-11-14",
+    "reportTime": "08:30",
+    "gateTime": "",
+    "startTime": "09:30",
+    "endTime": "11:30",
+    "shift": "",
+    "subject": ""
+   }
+  ],
+  "notAllowed": [
+   "electronic",
+   "watch"
+  ],
+  "candidate": {
+   "name": "RAHUL TESTKUMAR",
+   "father": "KARAN FAKEVERMA",
+   "roll": "7793108210",
+   "app": "898215991147",
+   "dob": "05/05/1996"
+  },
+  "file": "h24-upsc-cuttack.jpg",
+  "quality": "photo-mild",
+  "damage": [
+   "desk"
+  ],
+  "layout": "grid2",
+  "fontFamily": "tre",
+  "lineWidth": 2,
+  "pageSize": "1123x794",
+  "fontSize": 16.8,
+  "timetable": false,
+  "dateStyle": "mdy-long",
+  "timeStyle": "dot12c",
+  "rangeSep": " - "
+ },
+ {
+  "id": "h25-tet-hubballi",
+  "body": "tet",
+  "exam": "UPTET 2026",
+  "centre": "Chhatrapati Shivaji Polytechnic",
+  "centreCode": "",
+  "address": "Kachehri Road, Opposite Government Hospital, Hubballi 580020",
+  "city": "Hubballi",
+  "state": "Karnataka",
+  "pincode": "580020",
+  "homePincode": "625001",
+  "near": {
+   "lat": 15.3647,
+   "lon": 75.124
+  },
+  "big": false,
+  "lang": "en",
+  "days": [
+   {
+    "date": "2026-07-27",
+    "reportTime": "08:30",
+    "gateTime": "09:00",
+    "startTime": "09:30",
+    "endTime": "12:00",
+    "shift": "",
+    "subject": ""
+   }
+  ],
+  "notAllowed": [
+   "calculator",
+   "headphone",
+   "bag"
+  ],
+  "candidate": {
+   "name": "SIMRAN DEMOSHARMA",
+   "father": "SIMRAN SAMPLESINGH",
+   "roll": "8980390488",
+   "app": "347313619037",
+   "dob": "28/01/2005"
+  },
+  "file": "h25-tet-hubballi.png",
+  "quality": "clean-image",
+  "damage": [],
+  "layout": "headrow",
+  "fontFamily": "ver",
+  "lineWidth": 1,
+  "pageSize": "700x1000",
+  "fontSize": 11.9,
+  "timetable": false,
+  "dateStyle": "dot",
+  "timeStyle": "hrs",
+  "rangeSep": " till "
+ },
+ {
+  "id": "h26-psc-hubballi",
+  "body": "psc",
+  "exam": "KPSC State Civil Services 2026",
+  "centre": "Sardar Patel Institute of Technology",
+  "centreCode": "",
+  "address": "Gandhi Marg, Opposite Government Hospital, Hubballi, Karnataka - 580020",
+  "city": "Hubballi",
+  "state": "Karnataka",
+  "pincode": "580020",
+  "homePincode": "522001",
+  "near": {
+   "lat": 15.3647,
+   "lon": 75.124
+  },
+  "big": false,
+  "lang": "en",
+  "days": [
+   {
+    "date": "2026-11-14",
+    "reportTime": "08:30",
+    "gateTime": "09:30",
+    "startTime": "10:00",
+    "endTime": "12:00",
+    "shift": "",
+    "subject": ""
+   }
+  ],
+  "notAllowed": [
+   "mobile",
+   "electronic"
+  ],
+  "candidate": {
+   "name": "MANISH TRIALMISHRA",
+   "father": "MEENA TESTKUMAR",
+   "roll": "2159011755",
+   "app": "370122048956",
+   "dob": "01/04/2007"
+  },
+  "file": "h26-psc-hubballi.pdf",
+  "quality": "pdf-text",
+  "damage": [],
+  "layout": "grid4",
+  "fontFamily": "cou",
+  "lineWidth": 1.4,
+  "pageSize": "816x1056",
+  "fontSize": 11.7,
+  "timetable": false,
+  "dateStyle": "mdy-long",
+  "timeStyle": "dot12",
+  "rangeSep": " till "
+ },
+ {
+  "id": "h27-ssc-hisar",
+  "body": "ssc",
+  "exam": "SSC CGL 2026",
+  "centre": "Sardar Patel Degree College",
+  "centreCode": "HR9160",
+  "address": "Station Road, Behind Town Hall, Hisar, Haryana, PIN: 125001",
+  "city": "Hisar",
+  "state": "Haryana",
+  "pincode": "125001",
+  "homePincode": "492001",
+  "near": {
+   "lat": 29.1492,
+   "lon": 75.7217
+  },
+  "big": false,
+  "lang": "en",
+  "days": [
+   {
+    "date": "2026-05-13",
+    "reportTime": "15:30",
+    "gateTime": "16:15",
+    "startTime": "16:30",
+    "endTime": "17:30",
+    "shift": "3",
+    "subject": ""
+   }
+  ],
+  "notAllowed": [
+   "bag",
+   "calculator"
+  ],
+  "candidate": {
+   "name": "SIMRAN TESTKUMAR",
+   "father": "NEHA SPECIMENJOSHI",
+   "roll": "5763896483",
+   "app": "984395188772",
+   "dob": "08/01/2006"
+  },
+  "file": "h27-ssc-hisar.jpg",
+  "quality": "photo-mild",
+  "damage": [
+   "desk"
+  ],
+  "layout": "sections",
+  "fontFamily": "geo",
+  "lineWidth": 2,
+  "pageSize": "700x1000",
+  "fontSize": 10.9,
+  "timetable": false,
+  "dateStyle": "slash",
+  "timeStyle": "dot12c",
+  "rangeSep": " – "
+ },
+ {
+  "id": "h28-sbi-sitapur",
+  "body": "sbi",
+  "exam": "SBI Clerk 2026",
+  "centre": "Lal Bahadur Vidyalaya",
+  "centreCode": "",
+  "address": "Industrial Area, Opp. Bus Stand, Sitapur, PIN: 261001",
+  "city": "Sitapur",
+  "state": "Uttar Pradesh",
+  "pincode": "261001",
+  "homePincode": "284001",
+  "near": {
+   "lat": 27.5679,
+   "lon": 80.6826
+  },
+  "big": false,
+  "lang": "en",
+  "days": [
+   {
+    "date": "2026-11-17",
+    "reportTime": "10:45",
+    "gateTime": "11:30",
+    "startTime": "11:30",
+    "endTime": "12:30",
+    "shift": "",
+    "subject": ""
+   }
+  ],
+  "notAllowed": [
+   "mobile",
+   "electronic"
+  ],
+  "candidate": {
+   "name": "RAHUL TRIALMISHRA",
+   "father": "AMIT TRIALMISHRA",
+   "roll": "3525420136",
+   "app": "525494115723",
+   "dob": "03/02/1996"
+  },
+  "file": "h28-sbi-sitapur.jpg",
+  "quality": "photo-hard",
+  "damage": [
+   "tilt",
+   "crop"
+  ],
+  "layout": "headrow",
+  "fontFamily": "cou",
+  "lineWidth": 1,
+  "pageSize": "700x1000",
+  "fontSize": 10.8,
+  "timetable": false,
+  "dateStyle": "dmy-long",
+  "timeStyle": "noon",
+  "rangeSep": " - "
+ },
+ {
+  "id": "h29-ibps-wardha",
+  "body": "ibps",
+  "exam": "IBPS Clerk 2026",
+  "centre": "Modern Senior Secondary School",
+  "centreCode": "",
+  "address": "Awas Vikas Colony, Opposite Government Hospital, Wardha, Maharashtra, 442001",
+  "city": "Wardha",
+  "state": "Maharashtra",
+  "pincode": "442001",
+  "homePincode": "400001",
+  "near": {
+   "lat": 20.7453,
+   "lon": 78.6022
+  },
+  "big": false,
+  "lang": "en",
+  "days": [
+   {
+    "date": "2026-10-11",
+    "reportTime": "08:00",
+    "gateTime": "08:45",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "shift": "",
+    "subject": ""
+   }
+  ],
+  "notAllowed": [
+   "bag",
+   "calculator",
+   "headphone"
+  ],
+  "candidate": {
+   "name": "ASHOK MOCKGUPTA",
+   "father": "ANITA SAMPLESINGH",
+   "roll": "6571114290",
+   "app": "923399783650",
+   "dob": "16/09/2003"
+  },
+  "file": "h29-ibps-wardha.jpg",
+  "quality": "photo-mild",
+  "damage": [
+   "desk"
+  ],
+  "layout": "grid4",
+  "fontFamily": "tah",
+  "lineWidth": 0.7,
+  "pageSize": "816x1056",
+  "fontSize": 13.6,
+  "timetable": false,
+  "dateStyle": "slash",
+  "timeStyle": "ist",
+  "rangeSep": " – "
+ }
+]

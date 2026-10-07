@@ -1,0 +1,29 @@
+# Deploys CentreWay to GitHub Pages on every push to main. No build step needed.
+name: Deploy to GitHub Pages
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 22 }
+      - run: npm ci
+      - run: npm test
+        continue-on-error: true   # card-reading tests may need downloads that CI blocks; run npm test on your laptop first
+      - name: Collect site files
+        run: |
+          mkdir dist
+          cp -r index.html dsa.html styles.css sw.js version.json manifest.webmanifest src vendor icons data dist/
+      - uses: actions/upload-pages-artifact@v3
+        with: { path: dist }
+      - uses: actions/deploy-pages@v4

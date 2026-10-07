@@ -1,0 +1,1244 @@
+[
+ {
+  "id": "s01-jee-pdf",
+  "file": "s01-jee-pdf.pdf",
+  "format": "pdf-text",
+  "degrade": [],
+  "layout": "nta",
+  "lang": "en",
+  "exam": "JEE Main 2026 Session 1",
+  "centre": "Panjab University",
+  "centreCode": "",
+  "homePincode": "",
+  "address": "Sector 14, Chandigarh - 160014",
+  "city": "Chandigarh",
+  "pincode": "160014",
+  "near": {
+   "lat": 30.759,
+   "lon": 76.768
+  },
+  "nearRadiusKm": 5,
+  "days": [
+   {
+    "date": "2026-04-02",
+    "reportTime": "07:00",
+    "gateTime": "08:30",
+    "startTime": "09:00",
+    "endTime": "12:00",
+    "shift": "1",
+    "subject": ""
+   }
+  ],
+  "notAllowed": [
+   "mobile",
+   "calculator",
+   "watch"
+  ],
+  "hasQr": true,
+  "candidate": {
+   "name": "NEHA DEMOSHARMA",
+   "roll": "8596811779"
+  }
+ },
+ {
+  "id": "s02-jee-bilingual-photo",
+  "file": "s02-jee-bilingual-photo.jpg",
+  "format": "photo",
+  "degrade": [
+   "photo"
+  ],
+  "layout": "nta",
+  "lang": "bi",
+  "exam": "JEE Main 2026 Session 2",
+  "centre": "DAV College",
+  "centreCode": "",
+  "homePincode": "",
+  "address": "Sector 10, Chandigarh - 160011",
+  "city": "Chandigarh",
+  "pincode": "160011",
+  "near": {
+   "lat": 30.75,
+   "lon": 76.786
+  },
+  "nearRadiusKm": 5,
+  "days": [
+   {
+    "date": "2026-04-04",
+    "reportTime": "12:00",
+    "gateTime": "13:30",
+    "startTime": "15:00",
+    "endTime": "18:00",
+    "shift": "2",
+    "subject": ""
+   }
+  ],
+  "notAllowed": [
+   "mobile",
+   "calculator",
+   "bag"
+  ],
+  "hasQr": false,
+  "candidate": {
+   "name": "SIMRAN DEMOSHARMA",
+   "roll": "3009448247"
+  }
+ },
+ {
+  "id": "s03-neet-pdf",
+  "file": "s03-neet-pdf.pdf",
+  "format": "pdf-text",
+  "degrade": [],
+  "layout": "nta",
+  "lang": "en",
+  "exam": "NEET UG 2026",
+  "centre": "Government College of Commerce and Business Administration",
+  "centreCode": "",
+  "homePincode": "",
+  "address": "Sector 50-B, Chandigarh - 160047",
+  "city": "Chandigarh",
+  "pincode": "160047",
+  "near": {
+   "lat": 30.708,
+   "lon": 76.746
+  },
+  "nearRadiusKm": 5,
+  "days": [
+   {
+    "date": "2026-05-03",
+    "reportTime": "11:00",
+    "gateTime": "13:30",
+    "startTime": "14:00",
+    "endTime": "17:00",
+    "shift": "",
+    "subject": ""
+   }
+  ],
+  "notAllowed": [
+   "mobile",
+   "watch",
+   "jewellery"
+  ],
+  "hasQr": false,
+  "candidate": {
+   "name": "NEHA DEMOSHARMA",
+   "roll": "3193987012"
+  }
+ },
+ {
+  "id": "s04-ssc-cgl-tilt",
+  "file": "s04-ssc-cgl-tilt.jpg",
+  "format": "photo",
+  "degrade": [
+   "photo",
+   "tilt"
+  ],
+  "layout": "ssc",
+  "lang": "en",
+  "exam": "SSC CGL 2026 (Tier-I)",
+  "centre": "Indian Institute of Science Education and Research",
+  "centreCode": "",
+  "homePincode": "",
+  "address": "Knowledge City, Sector 81, Mohali, Punjab - 140306",
+  "city": "Mohali",
+  "pincode": "140306",
+  "near": {
+   "lat": 30.666,
+   "lon": 76.729
+  },
+  "nearRadiusKm": 5,
+  "days": [
+   {
+    "date": "2026-06-09",
+    "reportTime": "08:30",
+    "gateTime": "09:15",
+    "startTime": "09:30",
+    "endTime": "10:30",
+    "shift": "1",
+    "subject": ""
+   }
+  ],
+  "notAllowed": [
+   "mobile",
+   "calculator",
+   "watch"
+  ],
+  "hasQr": false,
+  "candidate": {
+   "name": "NEHA SAMPLESINGH",
+   "roll": "8052501569"
+  }
+ },
+ {
+  "id": "s05-ssc-chsl-scanpdf",
+  "file": "s05-ssc-chsl-scanpdf.pdf",
+  "format": "pdf-image",
+  "degrade": [],
+  "layout": "ssc",
+  "lang": "en",
+  "exam": "SSC CHSL 2026",
+  "centre": "Government College",
+  "centreCode": "",
+  "homePincode": "",
+  "address": "Sector 1, Panchkula, Haryana - 134109",
+  "city": "Panchkula",
+  "pincode": "134109",
+  "near": {
+   "lat": 30.693,
+   "lon": 76.859
+  },
+  "nearRadiusKm": 5,
+  "days": [
+   {
+    "date": "2026-07-14",
+    "reportTime": "13:30",
+    "gateTime": "14:30",
+    "startTime": "15:00",
+    "endTime": "16:00",
+    "shift": "3",
+    "subject": ""
+   }
+  ],
+  "notAllowed": [
+   "mobile",
+   "calculator"
+  ],
+  "hasQr": false,
+  "candidate": {
+   "name": "SIMRAN DEMOSHARMA",
+   "roll": "3009448247"
+  }
+ },
+ {
+  "id": "s06-rrb-ntpc-screenshot",
+  "file": "s06-rrb-ntpc-screenshot.png",
+  "format": "screenshot",
+  "degrade": [
+   "screenshot"
+  ],
+  "layout": "rrb",
+  "lang": "en",
+  "exam": "RRB NTPC (Graduate) CBT-1",
+  "centre": "Government Senior Secondary School",
+  "centreCode": "",
+  "homePincode": "",
+  "address": "Phase 7, SAS Nagar, Mohali, Punjab - 160061",
+  "city": "Mohali",
+  "pincode": "160061",
+  "near": {
+   "lat": 30.71,
+   "lon": 76.718
+  },
+  "nearRadiusKm": 5,
+  "days": [
+   {
+    "date": "2026-03-22",
+    "reportTime": "11:30",
+    "gateTime": "12:30",
+    "startTime": "13:00",
+    "endTime": "14:30",
+    "shift": "2",
+    "subject": ""
+   }
+  ],
+  "notAllowed": [
+   "mobile",
+   "bag",
+   "watch"
+  ],
+  "hasQr": false,
+  "candidate": {
+   "name": "SIMRAN DEMOSHARMA",
+   "roll": "3009448247"
+  }
+ },
+ {
+  "id": "s07-rrb-groupd-multiday-pdf",
+  "file": "s07-rrb-groupd-multiday-pdf.pdf",
+  "format": "pdf-text",
+  "degrade": [],
+  "layout": "timetable-rrb",
+  "lang": "en",
+  "exam": "RRB Group D CBT 2026",
+  "centre": "Chandigarh University",
+  "centreCode": "",
+  "homePincode": "",
+  "address": "NH-05 Chandigarh-Ludhiana Highway, Gharuan, Mohali, Punjab - 140413",
+  "city": "Mohali",
+  "pincode": "140413",
+  "near": {
+   "lat": 30.771,
+   "lon": 76.575
+  },
+  "nearRadiusKm": 5,
+  "days": [
+   {
+    "date": "2026-08-11",
+    "reportTime": "07:30",
+    "gateTime": "08:30",
+    "startTime": "09:00",
+    "endTime": "10:30",
+    "shift": "1",
+    "subject": ""
+   },
+   {
+    "date": "2026-08-12",
+    "reportTime": "12:00",
+    "gateTime": "13:00",
+    "startTime": "13:30",
+    "endTime": "15:00",
+    "shift": "2",
+    "subject": ""
+   },
+   {
+    "date": "2026-08-13",
+    "reportTime": "07:30",
+    "gateTime": "08:30",
+    "startTime": "09:00",
+    "endTime": "10:30",
+    "shift": "1",
+    "subject": ""
+   }
+  ],
+  "notAllowed": [
+   "mobile",
+   "calculator",
+   "headphone"
+  ],
+  "hasQr": false,
+  "candidate": {
+   "name": "SIMRAN DEMOSHARMA",
+   "roll": "3009448247"
+  }
+ },
+ {
+  "id": "s08-ibps-po-lowlight",
+  "file": "s08-ibps-po-lowlight.jpg",
+  "format": "photo",
+  "degrade": [
+   "photo",
+   "lowlight"
+  ],
+  "layout": "ibps",
+  "lang": "en",
+  "exam": "IBPS PO/MT Preliminary Examination 2026",
+  "centre": "Dev Samaj College for Women",
+  "centreCode": "",
+  "homePincode": "",
+  "address": "Sector 45-B, Chandigarh - 160047",
+  "city": "Chandigarh",
+  "pincode": "160047",
+  "near": {
+   "lat": 30.714,
+   "lon": 76.748
+  },
+  "nearRadiusKm": 5,
+  "days": [
+   {
+    "date": "2026-08-22",
+    "reportTime": "08:00",
+    "gateTime": "08:45",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "shift": "",
+    "subject": ""
+   }
+  ],
+  "notAllowed": [
+   "mobile",
+   "calculator",
+   "watch",
+   "bag"
+  ],
+  "hasQr": false,
+  "candidate": {
+   "name": "SIMRAN DEMOSHARMA",
+   "roll": "3009448247"
+  }
+ },
+ {
+  "id": "s09-ibps-clerk-pdf",
+  "file": "s09-ibps-clerk-pdf.pdf",
+  "format": "pdf-text",
+  "degrade": [],
+  "layout": "ibps",
+  "lang": "bi",
+  "exam": "IBPS Clerk Preliminary Examination 2026",
+  "centre": "Post Graduate Government College for Girls",
+  "centreCode": "",
+  "homePincode": "",
+  "address": "Sector 11, Chandigarh - 160011",
+  "city": "Chandigarh",
+  "pincode": "160011",
+  "near": {
+   "lat": 30.754,
+   "lon": 76.791
+  },
+  "nearRadiusKm": 5,
+  "days": [
+   {
+    "date": "2026-09-05",
+    "reportTime": "12:30",
+    "gateTime": "13:15",
+    "startTime": "13:30",
+    "endTime": "14:30",
+    "shift": "",
+    "subject": ""
+   }
+  ],
+  "notAllowed": [
+   "mobile",
+   "calculator"
+  ],
+  "hasQr": false,
+  "candidate": {
+   "name": "SIMRAN DEMOSHARMA",
+   "roll": "3009448247"
+  }
+ },
+ {
+  "id": "s10-up-police-hi-blurry",
+  "file": "s10-up-police-hi-blurry.jpg",
+  "format": "photo",
+  "degrade": [
+   "photo",
+   "blur"
+  ],
+  "layout": "hindi",
+  "lang": "hi",
+  "exam": "उत्तर प्रदेश पुलिस कांस्टेबल भर्ती परीक्षा 2026",
+  "centre": "लखनऊ विश्वविद्यालय",
+  "centreCode": "",
+  "homePincode": "",
+  "address": "बादशाह बाग, लखनऊ - 226007",
+  "city": "लखनऊ",
+  "pincode": "226007",
+  "near": {
+   "lat": 26.88,
+   "lon": 80.922
+  },
+  "nearRadiusKm": 5,
+  "days": [
+   {
+    "date": "2026-06-13",
+    "reportTime": "08:00",
+    "gateTime": "09:00",
+    "startTime": "10:00",
+    "endTime": "12:00",
+    "shift": "1",
+    "subject": ""
+   }
+  ],
+  "notAllowed": [
+   "मोबाइल",
+   "कैलकुलेटर"
+  ],
+  "hasQr": false,
+  "candidate": {
+   "name": "SIMRAN DEMOSHARMA",
+   "roll": "3009448247"
+  }
+ },
+ {
+  "id": "s11-up-police-hi-pdf",
+  "file": "s11-up-police-hi-pdf.pdf",
+  "format": "pdf-text",
+  "degrade": [],
+  "layout": "hindi",
+  "lang": "hi",
+  "exam": "उत्तर प्रदेश पुलिस उप निरीक्षक भर्ती परीक्षा 2026",
+  "centre": "इंटीग्रल यूनिवर्सिटी",
+  "centreCode": "",
+  "homePincode": "",
+  "address": "कुर्सी रोड, लखनऊ - 226026",
+  "city": "लखनऊ",
+  "pincode": "226026",
+  "near": {
+   "lat": 26.79,
+   "lon": 81.03
+  },
+  "nearRadiusKm": 5,
+  "days": [
+   {
+    "date": "2026-07-04",
+    "reportTime": "07:30",
+    "gateTime": "08:30",
+    "startTime": "09:30",
+    "endTime": "11:30",
+    "shift": "1",
+    "subject": ""
+   }
+  ],
+  "notAllowed": [
+   "मोबाइल",
+   "वॉच"
+  ],
+  "hasQr": false,
+  "candidate": {
+   "name": "SIMRAN DEMOSHARMA",
+   "roll": "3009448247"
+  }
+ },
+ {
+  "id": "s12-cbse-12-pdf",
+  "file": "s12-cbse-12-pdf.pdf",
+  "format": "pdf-text",
+  "degrade": [],
+  "layout": "cbse",
+  "lang": "en",
+  "exam": "CBSE Senior School Certificate Examination 2026 (Class XII)",
+  "centre": "Government Model Senior Secondary School",
+  "centreCode": "",
+  "homePincode": "",
+  "address": "Sector 16, Chandigarh - 160015",
+  "city": "Chandigarh",
+  "pincode": "160015",
+  "near": {
+   "lat": 30.75,
+   "lon": 76.79
+  },
+  "nearRadiusKm": 5,
+  "days": [
+   {
+    "date": "2026-02-24",
+    "reportTime": "10:00",
+    "gateTime": "",
+    "startTime": "10:30",
+    "endTime": "13:30",
+    "shift": "",
+    "subject": "Physics"
+   },
+   {
+    "date": "2026-02-27",
+    "reportTime": "10:00",
+    "gateTime": "",
+    "startTime": "10:30",
+    "endTime": "13:30",
+    "shift": "",
+    "subject": "Chemistry"
+   },
+   {
+    "date": "2026-03-03",
+    "reportTime": "10:00",
+    "gateTime": "",
+    "startTime": "10:30",
+    "endTime": "13:30",
+    "shift": "",
+    "subject": "Mathematics"
+   },
+   {
+    "date": "2026-03-07",
+    "reportTime": "10:00",
+    "gateTime": "",
+    "startTime": "10:30",
+    "endTime": "13:30",
+    "shift": "",
+    "subject": "English Core"
+   }
+  ],
+  "notAllowed": [
+   "mobile",
+   "calculator",
+   "watch"
+  ],
+  "hasQr": false,
+  "candidate": {
+   "name": "NEHA DEMOSHARMA",
+   "roll": "8853142418"
+  }
+ },
+ {
+  "id": "s13-cbse-10-shadow",
+  "file": "s13-cbse-10-shadow.jpg",
+  "format": "photo",
+  "degrade": [
+   "photo",
+   "shadow"
+  ],
+  "layout": "cbse",
+  "lang": "en",
+  "exam": "CBSE Secondary School Examination 2026 (Class X)",
+  "centre": "St. Stephens School",
+  "centreCode": "",
+  "homePincode": "",
+  "address": "Sector 45-B, Chandigarh - 160047",
+  "city": "Chandigarh",
+  "pincode": "160047",
+  "near": {
+   "lat": 30.714,
+   "lon": 76.748
+  },
+  "nearRadiusKm": 5,
+  "days": [
+   {
+    "date": "2026-02-26",
+    "reportTime": "10:00",
+    "gateTime": "",
+    "startTime": "10:30",
+    "endTime": "13:30",
+    "shift": "",
+    "subject": "Science"
+   },
+   {
+    "date": "2026-03-02",
+    "reportTime": "10:00",
+    "gateTime": "",
+    "startTime": "10:30",
+    "endTime": "13:30",
+    "shift": "",
+    "subject": "Mathematics"
+   },
+   {
+    "date": "2026-03-06",
+    "reportTime": "10:00",
+    "gateTime": "",
+    "startTime": "10:30",
+    "endTime": "13:30",
+    "shift": "",
+    "subject": "Social Science"
+   }
+  ],
+  "notAllowed": [
+   "mobile",
+   "calculator"
+  ],
+  "hasQr": false,
+  "candidate": {
+   "name": "SIMRAN DEMOSHARMA",
+   "roll": "3009448247"
+  }
+ },
+ {
+  "id": "s14-university-pdf",
+  "file": "s14-university-pdf.pdf",
+  "format": "pdf-text",
+  "degrade": [],
+  "layout": "university",
+  "lang": "en",
+  "exam": "End Semester Examination, May 2026",
+  "centre": "Delhi Technological University",
+  "centreCode": "",
+  "homePincode": "",
+  "address": "Shahbad Daulatpur, Main Bawana Road, Delhi - 110042",
+  "city": "Delhi",
+  "pincode": "110042",
+  "near": {
+   "lat": 28.75,
+   "lon": 77.117
+  },
+  "nearRadiusKm": 5,
+  "days": [
+   {
+    "date": "2026-05-20",
+    "reportTime": "09:30",
+    "gateTime": "",
+    "startTime": "10:00",
+    "endTime": "13:00",
+    "shift": "",
+    "subject": ""
+   }
+  ],
+  "notAllowed": [
+   "mobile",
+   "notes",
+   "bag"
+  ],
+  "hasQr": false,
+  "candidate": {
+   "name": "SIMRAN DEMOSHARMA",
+   "roll": "3009448247"
+  }
+ },
+ {
+  "id": "s15-psc-cropped",
+  "file": "s15-psc-cropped.jpg",
+  "format": "photo",
+  "degrade": [
+   "photo",
+   "crop"
+  ],
+  "layout": "ssc",
+  "lang": "en",
+  "exam": "State Public Service Commission Preliminary Examination 2026",
+  "centre": "Maulana Azad National Institute of Technology",
+  "centreCode": "",
+  "homePincode": "",
+  "address": "Link Road Number 3, Bhopal, Madhya Pradesh - 462003",
+  "city": "Bhopal",
+  "pincode": "462003",
+  "near": {
+   "lat": 23.216,
+   "lon": 77.407
+  },
+  "nearRadiusKm": 5,
+  "days": [
+   {
+    "date": "2026-10-18",
+    "reportTime": "08:30",
+    "gateTime": "09:30",
+    "startTime": "10:00",
+    "endTime": "12:00",
+    "shift": "1",
+    "subject": ""
+   }
+  ],
+  "notAllowed": [
+   "mobile",
+   "watch",
+   "bag"
+  ],
+  "hasQr": false,
+  "candidate": {
+   "name": "NEHA DEMOSHARMA",
+   "roll": "7670710186"
+  }
+ },
+ {
+  "id": "s16-jee-screenshot",
+  "file": "s16-jee-screenshot.png",
+  "format": "screenshot",
+  "degrade": [
+   "screenshot"
+  ],
+  "layout": "nta",
+  "lang": "en",
+  "exam": "JEE Main 2026 Session 2",
+  "centre": "Malaviya National Institute of Technology",
+  "centreCode": "",
+  "homePincode": "",
+  "address": "JLN Marg, Malviya Nagar, Jaipur, Rajasthan - 302017",
+  "city": "Jaipur",
+  "pincode": "302017",
+  "near": {
+   "lat": 26.865,
+   "lon": 75.812
+  },
+  "nearRadiusKm": 5,
+  "days": [
+   {
+    "date": "2026-04-08",
+    "reportTime": "07:00",
+    "gateTime": "08:30",
+    "startTime": "09:00",
+    "endTime": "12:00",
+    "shift": "1",
+    "subject": ""
+   }
+  ],
+  "notAllowed": [
+   "mobile",
+   "calculator",
+   "watch"
+  ],
+  "hasQr": false,
+  "candidate": {
+   "name": "SIMRAN DEMOSHARMA",
+   "roll": "3009448247"
+  }
+ },
+ {
+  "id": "s17-ssc-gd-scanpdf",
+  "file": "s17-ssc-gd-scanpdf.pdf",
+  "format": "pdf-image",
+  "degrade": [],
+  "layout": "rrb",
+  "lang": "en",
+  "exam": "SSC GD Constable Examination 2026",
+  "centre": "Patna Womens College",
+  "centreCode": "",
+  "homePincode": "",
+  "address": "Bailey Road, Patna, Bihar - 800001",
+  "city": "Patna",
+  "pincode": "800001",
+  "near": {
+   "lat": 25.615,
+   "lon": 85.125
+  },
+  "nearRadiusKm": 5,
+  "days": [
+   {
+    "date": "2026-04-27",
+    "reportTime": "08:00",
+    "gateTime": "08:45",
+    "startTime": "09:00",
+    "endTime": "10:30",
+    "shift": "1",
+    "subject": ""
+   }
+  ],
+  "notAllowed": [
+   "mobile",
+   "bag"
+  ],
+  "hasQr": false,
+  "candidate": {
+   "name": "SIMRAN DEMOSHARMA",
+   "roll": "3009448247"
+  }
+ },
+ {
+  "id": "s18-ibps-rrb-photo",
+  "file": "s18-ibps-rrb-photo.jpg",
+  "format": "photo",
+  "degrade": [
+   "photo"
+  ],
+  "layout": "ibps",
+  "lang": "en",
+  "exam": "IBPS RRB Office Assistant Preliminary 2026",
+  "centre": "Government College of Education",
+  "centreCode": "",
+  "homePincode": "",
+  "address": "Sector 20-D, Chandigarh - 160020",
+  "city": "Chandigarh",
+  "pincode": "160020",
+  "near": {
+   "lat": 30.727,
+   "lon": 76.768
+  },
+  "nearRadiusKm": 5,
+  "days": [
+   {
+    "date": "2026-08-02",
+    "reportTime": "08:30",
+    "gateTime": "09:15",
+    "startTime": "09:30",
+    "endTime": "10:30",
+    "shift": "",
+    "subject": ""
+   }
+  ],
+  "notAllowed": [
+   "mobile",
+   "calculator",
+   "watch"
+  ],
+  "hasQr": false,
+  "candidate": {
+   "name": "SIMRAN DEMOSHARMA",
+   "roll": "3009448247"
+  }
+ },
+ {
+  "id": "s19-neet-bilingual-photo",
+  "file": "s19-neet-bilingual-photo.jpg",
+  "format": "photo",
+  "degrade": [
+   "photo"
+  ],
+  "layout": "nta",
+  "lang": "bi",
+  "exam": "NEET UG 2026",
+  "centre": "University of Lucknow",
+  "centreCode": "",
+  "homePincode": "",
+  "address": "Badshah Bagh, Lucknow, Uttar Pradesh - 226007",
+  "city": "Lucknow",
+  "pincode": "226007",
+  "near": {
+   "lat": 26.88,
+   "lon": 80.922
+  },
+  "nearRadiusKm": 5,
+  "days": [
+   {
+    "date": "2026-05-03",
+    "reportTime": "11:00",
+    "gateTime": "13:30",
+    "startTime": "14:00",
+    "endTime": "17:00",
+    "shift": "",
+    "subject": ""
+   }
+  ],
+  "notAllowed": [
+   "mobile",
+   "watch",
+   "jewellery"
+  ],
+  "hasQr": false,
+  "candidate": {
+   "name": "SIMRAN DEMOSHARMA",
+   "roll": "3009448247"
+  }
+ },
+ {
+  "id": "s20-rrb-photo",
+  "file": "s20-rrb-photo.jpg",
+  "format": "photo",
+  "degrade": [
+   "photo"
+  ],
+  "layout": "rrb",
+  "lang": "en",
+  "exam": "RRB ALP CBT-1 2026",
+  "centre": "Government College",
+  "centreCode": "",
+  "homePincode": "",
+  "address": "Sector 46, Chandigarh - 160047",
+  "city": "Chandigarh",
+  "pincode": "160047",
+  "near": {
+   "lat": 30.705,
+   "lon": 76.745
+  },
+  "nearRadiusKm": 5,
+  "days": [
+   {
+    "date": "2026-03-30",
+    "reportTime": "07:30",
+    "gateTime": "08:30",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "shift": "1",
+    "subject": ""
+   }
+  ],
+  "notAllowed": [
+   "mobile",
+   "calculator",
+   "watch"
+  ],
+  "hasQr": false,
+  "candidate": {
+   "name": "NEHA FAKEVERMA",
+   "roll": "1678119425"
+  }
+ },
+ {
+  "id": "s21-nta-real-clear",
+  "file": "s21-nta-real-clear.png",
+  "format": "image",
+  "degrade": [],
+  "layout": "nta-real",
+  "lang": "en",
+  "exam": "JEE Main 2026 Session 1",
+  "centre": "Neta Jee Subhash Chandra Bose Online Examination Center",
+  "centreCode": "UP0802",
+  "homePincode": "273012",
+  "address": "Tura Bazar, Pipraich Road, Jungle Aurahi, Near Indian Oil Petrol Pump, Gorakhpur, Uttar Pradesh - 273013",
+  "city": "Gorakhpur",
+  "pincode": "273013",
+  "near": {
+   "lat": 26.8,
+   "lon": 83.4,
+   "radiusKm": 12
+  },
+  "nearRadiusKm": 12,
+  "days": [
+   {
+    "date": "2026-01-23",
+    "reportTime": "07:00",
+    "gateTime": "08:30",
+    "startTime": "09:00",
+    "endTime": "12:00",
+    "shift": "",
+    "subject": ""
+   }
+  ],
+  "notAllowed": [
+   "mobile",
+   "calculator",
+   "watch"
+  ],
+  "hasQr": false,
+  "candidate": {
+   "name": "SIMRAN DEMOSHARMA",
+   "roll": "3009448247"
+  }
+ },
+ {
+  "id": "s22-nta-real-photo",
+  "file": "s22-nta-real-photo.jpg",
+  "format": "photo",
+  "degrade": [
+   "photo",
+   "tilt3",
+   "softblur"
+  ],
+  "layout": "nta-real",
+  "lang": "en",
+  "exam": "JEE Main 2026 Session 1",
+  "centre": "Neta Jee Subhash Chandra Bose Online Examination Center",
+  "centreCode": "UP0802",
+  "homePincode": "273012",
+  "address": "Tura Bazar, Pipraich Road, Jungle Aurahi, Near Indian Oil Petrol Pump, Gorakhpur, Uttar Pradesh - 273013",
+  "city": "Gorakhpur",
+  "pincode": "273013",
+  "near": {
+   "lat": 26.8,
+   "lon": 83.4,
+   "radiusKm": 12
+  },
+  "nearRadiusKm": 12,
+  "days": [
+   {
+    "date": "2026-01-23",
+    "reportTime": "07:00",
+    "gateTime": "08:30",
+    "startTime": "09:00",
+    "endTime": "12:00",
+    "shift": "",
+    "subject": ""
+   }
+  ],
+  "notAllowed": [
+   "mobile",
+   "calculator",
+   "watch"
+  ],
+  "hasQr": false,
+  "candidate": {
+   "name": "SIMRAN DEMOSHARMA",
+   "roll": "3009448247"
+  }
+ },
+ {
+  "id": "s23-ssc-table",
+  "file": "s23-ssc-table.png",
+  "format": "image",
+  "degrade": [],
+  "layout": "table-ssc",
+  "lang": "en",
+  "exam": "SSC CGL 2026 (Tier-I)",
+  "centre": "Government College",
+  "centreCode": "",
+  "homePincode": "",
+  "address": "Sector 11, Chandigarh - 160011",
+  "city": "Chandigarh",
+  "pincode": "160011",
+  "near": {
+   "lat": 30.754,
+   "lon": 76.791
+  },
+  "nearRadiusKm": 5,
+  "days": [
+   {
+    "date": "2026-06-11",
+    "reportTime": "08:30",
+    "gateTime": "09:15",
+    "startTime": "09:30",
+    "endTime": "10:30",
+    "shift": "",
+    "subject": ""
+   }
+  ],
+  "notAllowed": [
+   "mobile",
+   "calculator",
+   "watch"
+  ],
+  "hasQr": false,
+  "candidate": {
+   "name": "ANITA FAKEVERMA",
+   "roll": "4302769431"
+  }
+ },
+ {
+  "id": "s24-rrb-table",
+  "file": "s24-rrb-table.png",
+  "format": "image",
+  "degrade": [],
+  "layout": "table-rrb",
+  "lang": "en",
+  "exam": "RRB NTPC CBT-2 2026",
+  "centre": "Government Senior Secondary School",
+  "centreCode": "",
+  "homePincode": "",
+  "address": "Phase 7, SAS Nagar, Mohali, Punjab - 160061",
+  "city": "Mohali",
+  "pincode": "160061",
+  "near": {
+   "lat": 30.71,
+   "lon": 76.718
+  },
+  "nearRadiusKm": 5,
+  "days": [
+   {
+    "date": "2026-04-14",
+    "reportTime": "11:30",
+    "gateTime": "12:30",
+    "startTime": "13:00",
+    "endTime": "14:30",
+    "shift": "",
+    "subject": ""
+   }
+  ],
+  "notAllowed": [
+   "mobile",
+   "bag",
+   "watch"
+  ],
+  "hasQr": false,
+  "candidate": {
+   "name": "NEHA SAMPLESINGH",
+   "roll": "7258176875"
+  }
+ },
+ {
+  "id": "s25-ibps-table",
+  "file": "s25-ibps-table.png",
+  "format": "image",
+  "degrade": [],
+  "layout": "table-ibps",
+  "lang": "en",
+  "exam": "IBPS PO Mains Examination 2026",
+  "centre": "Panjab University",
+  "centreCode": "",
+  "homePincode": "",
+  "address": "Sector 14, Chandigarh - 160014",
+  "city": "Chandigarh",
+  "pincode": "160014",
+  "near": {
+   "lat": 30.759,
+   "lon": 76.768
+  },
+  "nearRadiusKm": 5,
+  "days": [
+   {
+    "date": "2026-11-08",
+    "reportTime": "08:00",
+    "gateTime": "08:45",
+    "startTime": "09:00",
+    "endTime": "12:00",
+    "shift": "",
+    "subject": ""
+   }
+  ],
+  "notAllowed": [
+   "mobile",
+   "calculator"
+  ],
+  "hasQr": false,
+  "candidate": {
+   "name": "RAHUL MOCKGUPTA",
+   "roll": "4621823926"
+  }
+ },
+ {
+  "id": "s26-nta-real-lowres",
+  "file": "s26-nta-real-lowres.jpg",
+  "format": "photo",
+  "degrade": [
+   "photo",
+   "tilt3",
+   "softblur",
+   "lowres"
+  ],
+  "layout": "nta-real",
+  "lang": "en",
+  "exam": "JEE Main 2026 Session 1",
+  "centre": "Neta Jee Subhash Chandra Bose Online Examination Center",
+  "centreCode": "UP0802",
+  "homePincode": "273012",
+  "address": "Tura Bazar, Pipraich Road, Jungle Aurahi, Near Indian Oil Petrol Pump, Gorakhpur, Uttar Pradesh - 273013",
+  "city": "Gorakhpur",
+  "pincode": "273013",
+  "near": {
+   "lat": 26.8,
+   "lon": 83.4,
+   "radiusKm": 12
+  },
+  "nearRadiusKm": 12,
+  "days": [
+   {
+    "date": "2026-01-23",
+    "reportTime": "07:00",
+    "gateTime": "08:30",
+    "startTime": "09:00",
+    "endTime": "12:00",
+    "shift": "",
+    "subject": ""
+   }
+  ],
+  "notAllowed": [
+   "mobile",
+   "calculator",
+   "watch"
+  ],
+  "hasQr": false,
+  "candidate": {
+   "name": "SIMRAN DEMOSHARMA",
+   "roll": "3009448247"
+  }
+ },
+ {
+  "id": "s27-nta-real-pdf",
+  "file": "s27-nta-real-pdf.pdf",
+  "format": "pdf-text",
+  "degrade": [],
+  "layout": "nta-real",
+  "lang": "en",
+  "exam": "JEE Main 2026 Session 1",
+  "centre": "Neta Jee Subhash Chandra Bose Online Examination Center",
+  "centreCode": "UP0802",
+  "homePincode": "273012",
+  "address": "Tura Bazar, Pipraich Road, Jungle Aurahi, Near Indian Oil Petrol Pump, Gorakhpur, Uttar Pradesh - 273013",
+  "city": "Gorakhpur",
+  "pincode": "273013",
+  "near": {
+   "lat": 26.8,
+   "lon": 83.4,
+   "radiusKm": 12
+  },
+  "nearRadiusKm": 12,
+  "days": [
+   {
+    "date": "2026-01-23",
+    "reportTime": "07:00",
+    "gateTime": "08:30",
+    "startTime": "09:00",
+    "endTime": "12:00",
+    "shift": "",
+    "subject": ""
+   }
+  ],
+  "notAllowed": [
+   "mobile",
+   "calculator",
+   "watch"
+  ],
+  "hasQr": false,
+  "candidate": {
+   "name": "SIMRAN DEMOSHARMA",
+   "roll": "3009448247"
+  }
+ },
+ {
+  "id": "s28-nta-exact-jpeg",
+  "file": "s28-nta-exact-jpeg.jpg",
+  "format": "nta-exact",
+  "degrade": [],
+  "layout": "nta-real",
+  "lang": "en",
+  "exam": "JEE Main 2026 Session 1",
+  "centre": "Neta Jee Subhash Chandra Bose Online Examination Center",
+  "centreCode": "UP0802",
+  "homePincode": "273012",
+  "address": "Tura Bazar, Pipraich Road, Jungle Aurahi, Near Indian Oil Petrol Pump, Gorakhpur, Uttar Pradesh - 273013",
+  "city": "Gorakhpur",
+  "pincode": "273013",
+  "near": {
+   "lat": 26.8,
+   "lon": 83.4,
+   "radiusKm": 12
+  },
+  "nearRadiusKm": 12,
+  "days": [
+   {
+    "date": "2026-01-23",
+    "reportTime": "07:00",
+    "gateTime": "08:30",
+    "startTime": "09:00",
+    "endTime": "12:00",
+    "shift": "",
+    "subject": ""
+   }
+  ],
+  "notAllowed": [],
+  "hasQr": false,
+  "candidate": {
+   "name": "SIMRAN DEMOSHARMA",
+   "roll": "3009448247"
+  }
+ }
+]

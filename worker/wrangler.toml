@@ -1,0 +1,14 @@
+# Cloudflare Worker settings. Follow worker/README.md. Do NOT put the Google key here: it is added as a secret.
+name = "centreway-places"
+main = "index.js"
+compatibility_date = "2025-01-01"
+
+[vars]
+DAILY_LIMIT = "1000"
+# the address of your app (where the app is hosted), exactly as the browser shows it, no slash at the end. Several: separate with commas.
+ALLOWED_ORIGIN = "https://YOUR-NAME.github.io"
+
+# the counter for the daily limit: create it with `npx wrangler kv namespace create COUNTER` and paste the id here
+[[kv_namespaces]]
+binding = "COUNTER"
+id = "PASTE-THE-ID-HERE"

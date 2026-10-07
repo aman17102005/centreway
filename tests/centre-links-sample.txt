@@ -1,0 +1,92 @@
+Links for the 6 test colleges (built by the app's own link code). Addresses: your test cards are not in the project, so these are the fullest addresses I know; replace them on a real card and the links follow.
+"name search" = our pin was not HIGH confidence, so Google is asked by NAME and ADDRESS and pins the real college. "coordinates" = our pin was high confidence.
+
+### Bhartiya Institute of Engineering and Technology (Sikar) - our pin: 27.531685, 75.135390, low confidence (found via: pincode only) -> pin buttons use: NAME SEARCH
+search text:                Bhartiya Institute of Engineering and Technology, Sikar, Rajasthan 332021
+SHOW MY EXAM CENTRE:        https://www.google.com/maps/search/?api=1&query=Bhartiya%20Institute%20of%20Engineering%20and%20Technology%2C%20Sikar%2C%20Rajasthan%20332021
+ANDROID PHONE MAP APP:      geo:0,0?q=Bhartiya%20Institute%20of%20Engineering%20and%20Technology%2C%20Sikar%2C%20Rajasthan%20332021
+GET DIRECTIONS TO CENTRE:   https://www.google.com/maps/dir/?api=1&destination=Bhartiya%20Institute%20of%20Engineering%20and%20Technology%2C%20Sikar%2C%20Rajasthan%20332021
+  near centre, restaurants     https://www.google.com/maps/search/?api=1&query=restaurants%20near%20Bhartiya%20Institute%20of%20Engineering%20and%20Technology%2C%20Sikar
+  near centre, hotels          https://www.google.com/maps/search/?api=1&query=hotels%20near%20Bhartiya%20Institute%20of%20Engineering%20and%20Technology%2C%20Sikar
+  near centre, medical stores  https://www.google.com/maps/search/?api=1&query=medical%20stores%20near%20Bhartiya%20Institute%20of%20Engineering%20and%20Technology%2C%20Sikar
+  near centre, hospitals       https://www.google.com/maps/search/?api=1&query=hospitals%20near%20Bhartiya%20Institute%20of%20Engineering%20and%20Technology%2C%20Sikar
+  near centre, ATMs            https://www.google.com/maps/search/?api=1&query=ATMs%20near%20Bhartiya%20Institute%20of%20Engineering%20and%20Technology%2C%20Sikar
+  near centre, petrol pumps    https://www.google.com/maps/search/?api=1&query=petrol%20pumps%20near%20Bhartiya%20Institute%20of%20Engineering%20and%20Technology%2C%20Sikar
+  near centre, bus stand       https://www.google.com/maps/search/?api=1&query=bus%20stand%20near%20Bhartiya%20Institute%20of%20Engineering%20and%20Technology%2C%20Sikar
+  near centre, railway station https://www.google.com/maps/search/?api=1&query=railway%20station%20near%20Bhartiya%20Institute%20of%20Engineering%20and%20Technology%2C%20Sikar
+  near centre, photocopy shop  https://www.google.com/maps/search/?api=1&query=photocopy%20shop%20near%20Bhartiya%20Institute%20of%20Engineering%20and%20Technology%2C%20Sikar
+
+### Poornima College of Engineering (Jaipur) - our pin: 26.773602, 75.838114, low confidence (found via: pincode only) -> pin buttons use: NAME SEARCH
+search text:                Poornima College of Engineering, ISI-2, RIICO Institutional Area, Sitapura, Jaipur, Rajasthan 302022
+SHOW MY EXAM CENTRE:        https://www.google.com/maps/search/?api=1&query=Poornima%20College%20of%20Engineering%2C%20ISI-2%2C%20RIICO%20Institutional%20Area%2C%20Sitapura%2C%20Jaipur%2C%20Rajasthan%20302022
+ANDROID PHONE MAP APP:      geo:0,0?q=Poornima%20College%20of%20Engineering%2C%20ISI-2%2C%20RIICO%20Institutional%20Area%2C%20Sitapura%2C%20Jaipur%2C%20Rajasthan%20302022
+GET DIRECTIONS TO CENTRE:   https://www.google.com/maps/dir/?api=1&destination=Poornima%20College%20of%20Engineering%2C%20ISI-2%2C%20RIICO%20Institutional%20Area%2C%20Sitapura%2C%20Jaipur%2C%20Rajasthan%20302022
+  near centre, restaurants     https://www.google.com/maps/search/?api=1&query=restaurants%20near%20Poornima%20College%20of%20Engineering%2C%20ISI-2%2C%20Jaipur
+  near centre, hotels          https://www.google.com/maps/search/?api=1&query=hotels%20near%20Poornima%20College%20of%20Engineering%2C%20ISI-2%2C%20Jaipur
+  near centre, medical stores  https://www.google.com/maps/search/?api=1&query=medical%20stores%20near%20Poornima%20College%20of%20Engineering%2C%20ISI-2%2C%20Jaipur
+  near centre, hospitals       https://www.google.com/maps/search/?api=1&query=hospitals%20near%20Poornima%20College%20of%20Engineering%2C%20ISI-2%2C%20Jaipur
+  near centre, ATMs            https://www.google.com/maps/search/?api=1&query=ATMs%20near%20Poornima%20College%20of%20Engineering%2C%20ISI-2%2C%20Jaipur
+  near centre, petrol pumps    https://www.google.com/maps/search/?api=1&query=petrol%20pumps%20near%20Poornima%20College%20of%20Engineering%2C%20ISI-2%2C%20Jaipur
+  near centre, bus stand       https://www.google.com/maps/search/?api=1&query=bus%20stand%20near%20Poornima%20College%20of%20Engineering%2C%20ISI-2%2C%20Jaipur
+  near centre, railway station https://www.google.com/maps/search/?api=1&query=railway%20station%20near%20Poornima%20College%20of%20Engineering%2C%20ISI-2%2C%20Jaipur
+  near centre, photocopy shop  https://www.google.com/maps/search/?api=1&query=photocopy%20shop%20near%20Poornima%20College%20of%20Engineering%2C%20ISI-2%2C%20Jaipur
+
+### JECRC (Jaipur) - our pin: 26.764702, 75.847770, low confidence (found via: pincode only) -> pin buttons use: NAME SEARCH
+search text:                JECRC, Ramchandrapura, Sitapura Industrial Area, Vidhani, Jaipur, Rajasthan 303905
+SHOW MY EXAM CENTRE:        https://www.google.com/maps/search/?api=1&query=JECRC%2C%20Ramchandrapura%2C%20Sitapura%20Industrial%20Area%2C%20Vidhani%2C%20Jaipur%2C%20Rajasthan%20303905
+ANDROID PHONE MAP APP:      geo:0,0?q=JECRC%2C%20Ramchandrapura%2C%20Sitapura%20Industrial%20Area%2C%20Vidhani%2C%20Jaipur%2C%20Rajasthan%20303905
+GET DIRECTIONS TO CENTRE:   https://www.google.com/maps/dir/?api=1&destination=JECRC%2C%20Ramchandrapura%2C%20Sitapura%20Industrial%20Area%2C%20Vidhani%2C%20Jaipur%2C%20Rajasthan%20303905
+  near centre, restaurants     https://www.google.com/maps/search/?api=1&query=restaurants%20near%20JECRC%2C%20Ramchandrapura%2C%20Jaipur
+  near centre, hotels          https://www.google.com/maps/search/?api=1&query=hotels%20near%20JECRC%2C%20Ramchandrapura%2C%20Jaipur
+  near centre, medical stores  https://www.google.com/maps/search/?api=1&query=medical%20stores%20near%20JECRC%2C%20Ramchandrapura%2C%20Jaipur
+  near centre, hospitals       https://www.google.com/maps/search/?api=1&query=hospitals%20near%20JECRC%2C%20Ramchandrapura%2C%20Jaipur
+  near centre, ATMs            https://www.google.com/maps/search/?api=1&query=ATMs%20near%20JECRC%2C%20Ramchandrapura%2C%20Jaipur
+  near centre, petrol pumps    https://www.google.com/maps/search/?api=1&query=petrol%20pumps%20near%20JECRC%2C%20Ramchandrapura%2C%20Jaipur
+  near centre, bus stand       https://www.google.com/maps/search/?api=1&query=bus%20stand%20near%20JECRC%2C%20Ramchandrapura%2C%20Jaipur
+  near centre, railway station https://www.google.com/maps/search/?api=1&query=railway%20station%20near%20JECRC%2C%20Ramchandrapura%2C%20Jaipur
+  near centre, photocopy shop  https://www.google.com/maps/search/?api=1&query=photocopy%20shop%20near%20JECRC%2C%20Ramchandrapura%2C%20Jaipur
+
+### MNIT (Jaipur) - our pin: 26.860530, 75.811125, medium confidence (found via: centre name and pincode) -> pin buttons use: NAME SEARCH
+search text:                MNIT, Malaviya National Institute of Technology, JLN Marg, Malviya Nagar, Jaipur, Rajasthan 302017
+SHOW MY EXAM CENTRE:        https://www.google.com/maps/search/?api=1&query=MNIT%2C%20Malaviya%20National%20Institute%20of%20Technology%2C%20JLN%20Marg%2C%20Malviya%20Nagar%2C%20Jaipur%2C%20Rajasthan%20302017
+ANDROID PHONE MAP APP:      geo:0,0?q=MNIT%2C%20Malaviya%20National%20Institute%20of%20Technology%2C%20JLN%20Marg%2C%20Malviya%20Nagar%2C%20Jaipur%2C%20Rajasthan%20302017
+GET DIRECTIONS TO CENTRE:   https://www.google.com/maps/dir/?api=1&destination=MNIT%2C%20Malaviya%20National%20Institute%20of%20Technology%2C%20JLN%20Marg%2C%20Malviya%20Nagar%2C%20Jaipur%2C%20Rajasthan%20302017
+  near centre, restaurants     https://www.google.com/maps/search/?api=1&query=restaurants%20near%20MNIT%2C%20Malaviya%20National%20Institute%20of%20Technology%2C%20Jaipur
+  near centre, hotels          https://www.google.com/maps/search/?api=1&query=hotels%20near%20MNIT%2C%20Malaviya%20National%20Institute%20of%20Technology%2C%20Jaipur
+  near centre, medical stores  https://www.google.com/maps/search/?api=1&query=medical%20stores%20near%20MNIT%2C%20Malaviya%20National%20Institute%20of%20Technology%2C%20Jaipur
+  near centre, hospitals       https://www.google.com/maps/search/?api=1&query=hospitals%20near%20MNIT%2C%20Malaviya%20National%20Institute%20of%20Technology%2C%20Jaipur
+  near centre, ATMs            https://www.google.com/maps/search/?api=1&query=ATMs%20near%20MNIT%2C%20Malaviya%20National%20Institute%20of%20Technology%2C%20Jaipur
+  near centre, petrol pumps    https://www.google.com/maps/search/?api=1&query=petrol%20pumps%20near%20MNIT%2C%20Malaviya%20National%20Institute%20of%20Technology%2C%20Jaipur
+  near centre, bus stand       https://www.google.com/maps/search/?api=1&query=bus%20stand%20near%20MNIT%2C%20Malaviya%20National%20Institute%20of%20Technology%2C%20Jaipur
+  near centre, railway station https://www.google.com/maps/search/?api=1&query=railway%20station%20near%20MNIT%2C%20Malaviya%20National%20Institute%20of%20Technology%2C%20Jaipur
+  near centre, photocopy shop  https://www.google.com/maps/search/?api=1&query=photocopy%20shop%20near%20MNIT%2C%20Malaviya%20National%20Institute%20of%20Technology%2C%20Jaipur
+
+### Morarka Govt. P.G. College (Jhunjhunu) - our pin: 28.129341, 75.399789, low confidence (found via: pincode only) -> pin buttons use: NAME SEARCH
+search text:                Morarka Govt. P.G. College, Jhunjhunu, Rajasthan 333001
+SHOW MY EXAM CENTRE:        https://www.google.com/maps/search/?api=1&query=Morarka%20Govt.%20P.G.%20College%2C%20Jhunjhunu%2C%20Rajasthan%20333001
+ANDROID PHONE MAP APP:      geo:0,0?q=Morarka%20Govt.%20P.G.%20College%2C%20Jhunjhunu%2C%20Rajasthan%20333001
+GET DIRECTIONS TO CENTRE:   https://www.google.com/maps/dir/?api=1&destination=Morarka%20Govt.%20P.G.%20College%2C%20Jhunjhunu%2C%20Rajasthan%20333001
+  near centre, restaurants     https://www.google.com/maps/search/?api=1&query=restaurants%20near%20Morarka%20Govt.%20P.G.%20College%2C%20Jhunjhunu
+  near centre, hotels          https://www.google.com/maps/search/?api=1&query=hotels%20near%20Morarka%20Govt.%20P.G.%20College%2C%20Jhunjhunu
+  near centre, medical stores  https://www.google.com/maps/search/?api=1&query=medical%20stores%20near%20Morarka%20Govt.%20P.G.%20College%2C%20Jhunjhunu
+  near centre, hospitals       https://www.google.com/maps/search/?api=1&query=hospitals%20near%20Morarka%20Govt.%20P.G.%20College%2C%20Jhunjhunu
+  near centre, ATMs            https://www.google.com/maps/search/?api=1&query=ATMs%20near%20Morarka%20Govt.%20P.G.%20College%2C%20Jhunjhunu
+  near centre, petrol pumps    https://www.google.com/maps/search/?api=1&query=petrol%20pumps%20near%20Morarka%20Govt.%20P.G.%20College%2C%20Jhunjhunu
+  near centre, bus stand       https://www.google.com/maps/search/?api=1&query=bus%20stand%20near%20Morarka%20Govt.%20P.G.%20College%2C%20Jhunjhunu
+  near centre, railway station https://www.google.com/maps/search/?api=1&query=railway%20station%20near%20Morarka%20Govt.%20P.G.%20College%2C%20Jhunjhunu
+  near centre, photocopy shop  https://www.google.com/maps/search/?api=1&query=photocopy%20shop%20near%20Morarka%20Govt.%20P.G.%20College%2C%20Jhunjhunu
+
+### Seth Motilal P.G. College (Jhunjhunu) - our pin: 28.129341, 75.399789, low confidence (found via: pincode only) -> pin buttons use: NAME SEARCH
+search text:                Seth Motilal P.G. College, Jhunjhunu, Rajasthan 333001
+SHOW MY EXAM CENTRE:        https://www.google.com/maps/search/?api=1&query=Seth%20Motilal%20P.G.%20College%2C%20Jhunjhunu%2C%20Rajasthan%20333001
+ANDROID PHONE MAP APP:      geo:0,0?q=Seth%20Motilal%20P.G.%20College%2C%20Jhunjhunu%2C%20Rajasthan%20333001
+GET DIRECTIONS TO CENTRE:   https://www.google.com/maps/dir/?api=1&destination=Seth%20Motilal%20P.G.%20College%2C%20Jhunjhunu%2C%20Rajasthan%20333001
+  near centre, restaurants     https://www.google.com/maps/search/?api=1&query=restaurants%20near%20Seth%20Motilal%20P.G.%20College%2C%20Jhunjhunu
+  near centre, hotels          https://www.google.com/maps/search/?api=1&query=hotels%20near%20Seth%20Motilal%20P.G.%20College%2C%20Jhunjhunu
+  near centre, medical stores  https://www.google.com/maps/search/?api=1&query=medical%20stores%20near%20Seth%20Motilal%20P.G.%20College%2C%20Jhunjhunu
+  near centre, hospitals       https://www.google.com/maps/search/?api=1&query=hospitals%20near%20Seth%20Motilal%20P.G.%20College%2C%20Jhunjhunu
+  near centre, ATMs            https://www.google.com/maps/search/?api=1&query=ATMs%20near%20Seth%20Motilal%20P.G.%20College%2C%20Jhunjhunu
+  near centre, petrol pumps    https://www.google.com/maps/search/?api=1&query=petrol%20pumps%20near%20Seth%20Motilal%20P.G.%20College%2C%20Jhunjhunu
+  near centre, bus stand       https://www.google.com/maps/search/?api=1&query=bus%20stand%20near%20Seth%20Motilal%20P.G.%20College%2C%20Jhunjhunu
+  near centre, railway station https://www.google.com/maps/search/?api=1&query=railway%20station%20near%20Seth%20Motilal%20P.G.%20College%2C%20Jhunjhunu
+  near centre, photocopy shop  https://www.google.com/maps/search/?api=1&query=photocopy%20shop%20near%20Seth%20Motilal%20P.G.%20College%2C%20Jhunjhunu

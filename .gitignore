@@ -1,0 +1,28 @@
+# dependencies and big caches
+node_modules/
+tools/.cache/
+tests/.tess-cache/
+tests/.http-cache/
+.scratch/
+.DS_Store
+
+# secrets: never commit keys (the Google key lives only inside the Cloudflare Worker, as a secret)
+.env
+.env.*
+.dev.vars
+worker/.dev.vars
+worker/.wrangler/
+.wrangler/
+*.key
+*.pem
+secrets*
+api-keys*
+
+# real admit cards and personal photos: only the FAKE cards made by tools/ may be in this project
+real-cards/
+my-cards/
+my-card*
+admit-card*
+*.heic
+test-results/
+*.log

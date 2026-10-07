@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; worker-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob: https://tile.openstreetmap.org https://*.tile.openstreetmap.org; connect-src 'self' https://photon.komoot.io https://*.workers.dev https://nominatim.openstreetmap.org https://routing.openstreetmap.de https://router.project-osrm.org https://overpass-api.de https://overpass.kumi.systems https://overpass.private.coffee https://api.openrouteservice.org https://generativelanguage.googleapis.com https://cdn.jsdelivr.net; manifest-src 'self'; base-uri 'self'; form-action 'none'; object-src 'none'">
+  <meta name="theme-color" content="#0b57d0">
+  <meta name="description" content="Free app to help exam candidates reach their exam centre on time.">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="icons/icon-192.png">
+  <link rel="apple-touch-icon" href="icons/icon-192.png">
+  <link rel="stylesheet" href="vendor/leaflet/leaflet.css">
+  <link rel="stylesheet" href="styles.css">
+  <title>CentreWay – reach your exam centre on time</title>
+</head>
+<body>
+  <div id="app"><p class="loading">Loading…</p></div>
+  <noscript>CentreWay needs JavaScript to run.</noscript>
+  <script src="vendor/leaflet/leaflet.js"></script>
+  <script type="module" src="src/app.js"></script>
+</body>
+</html>

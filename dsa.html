@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob: https://tile.openstreetmap.org https://*.tile.openstreetmap.org; connect-src 'self'; base-uri 'self'; form-action 'none'; object-src 'none'">
+  <title>CentreWay DSA demo</title>
+  <link rel="stylesheet" href="vendor/leaflet/leaflet.css">
+  <link rel="stylesheet" href="styles.css">
+  <style>
+    body { max-width: 1200px; margin: 0 auto; padding: 0 16px 40px; }
+    .maps { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+    .maps .map { height: 420px; }
+    .stats { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+    .legend span { display: inline-block; width: 12px; height: 12px; border-radius: 50%; margin: 0 4px -1px 12px; }
+    .tools { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+    ul.plain { list-style: none; padding: 0; margin: 6px 0; } ul.plain li { padding: 4px 0; border-bottom: 1px solid var(--line); }
+    @media (max-width: 800px) { .maps, .stats, .tools { grid-template-columns: 1fr; } }
+  </style>
+</head>
+<body>
+  <h1>CentreWay: DSA demo</h1>
+  <p class="muted">Viva demo page. Everything runs in your browser using the code in <code>src/dsa/</code>. Road data © OpenStreetMap contributors (ODbL).</p>
+
+  <h2>1. Dijkstra vs A* on the real road graph</h2>
+  <p id="graphStatus" class="note info">Loading road graph…</p>
+  <div class="row">
+    <label for="mode">Mode</label>
+    <select id="mode"><option value="car">Car</option><option value="bike">Motorbike</option><option value="foot">Walking</option></select>
+    <button class="btn primary" id="run" type="button">Run both</button>
+    <button class="btn ghost" id="random" type="button">Random points</button>
+    <button class="btn ghost" id="clear" type="button">Clear</button>
+    <span class="legend muted">Click a map to set point A, then point B. <span style="background:#e69f00"></span>visited by Dijkstra <span style="background:#009e73"></span>visited by A* <span style="background:#d00000"></span>path</span>
+  </div>
+  <div class="maps">
+    <div><h3>Dijkstra</h3><div id="mapD" class="map"></div></div>
+    <div><h3>A*</h3><div id="mapA" class="map"></div></div>
+  </div>
+  <div class="stats">
+    <div class="card" id="statsD">Dijkstra: no run yet.</div>
+    <div class="card" id="statsA">A*: no run yet.</div>
+  </div>
+
+  <h2>2. Trie and edit distance</h2>
+  <div class="tools">
+    <div class="card">
+      <label for="prefix"><strong>Trie</strong>: type a prefix (e.g. "cha", "mo", "rail")</label>
+      <input id="prefix" autocomplete="off">
+      <ul class="plain" id="trieOut"></ul>
+      <p class="muted" id="trieInfo"></p>
+    </div>
+    <div class="card">
+      <label for="wrong"><strong>Edit distance</strong>: type a wrong word (e.g. "chandigrah", "panchkla")</label>
+      <input id="wrong" autocomplete="off">
+      <ul class="plain" id="editOut"></ul>
+    </div>
+  </div>
+  <h2>3. Morning errands planner (bitmask DP)</h2>
+  <div class="card">
+    <p class="muted">Home, the exam centre and 5 random shops of each of 3 kinds (photocopy, ATM, chemist). Travel time = straight line, so the table is easy to check. The DP picks one shop of each kind and the order; brute force tries every order and every shop and must give the same total.</p>
+    <div class="row">
+      <button class="btn primary" id="errandRun" type="button">New random places and solve</button>
+    </div>
+    <ul class="plain" id="errandOut"></ul>
+    <p class="muted" id="errandInfo"></p>
+  </div>
+  <p><a href="./">← back to CentreWay</a></p>
+
+  <script src="vendor/leaflet/leaflet.js"></script>
+  <script type="module" src="src/dsaDemo.js"></script>
+</body>
+</html>
